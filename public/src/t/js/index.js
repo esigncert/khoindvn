@@ -7,7 +7,7 @@ $(function(){
     ShowToast();
     __GetIP();
     __GetInfo();
-    console.log("%c🌳 Name：khoindvn.io.vn | Bio：Sayy Hello | Url：https://www.khoindvn.io.vn 🌳", "font-family: ;color:#fff; background: linear-gradient(270deg, #18d7d3, #68b7dd, #8695e6, #986fee); padding: 8px 15px; border-radius: 8px");
+    console.log("%c🌳 Name：KhơindvnTv | Bio：Sayy Hello | Url：https://www.Khơindvn.com 🌳", "font-family: ;color:#fff; background: linear-gradient(270deg, #18d7d3, #68b7dd, #8695e6, #986fee); padding: 8px 15px; border-radius: 8px");
     console.log("…………./´¯/)……….. (\\¯’\\\n…………/….//……….. …\\\\….\\\n………../….//………… ….\\\\….\\\n…../´¯/…./´¯\\\\………../¯‘\\\\…./¯’\\\\\n.././…/…./…./.|_|……_| .\\\\…\\\\…\\\\…\\\\.\\\\\n(.(….(….(…./.)..)..(..(. \\\\….)….)….).)\n.\\\\…………….\\/…/…\\\\. ..\\/……………./\n..\\\\…………….. /……..\\\\………………../\n…\\\\…………..(………. ..)……………./");
   });
 // CHECK FPS
@@ -26,16 +26,16 @@ function CheckFps() {
 }
 // TIEU SU CHỮ CHẠY
 let typed=new Typed(".GioiThieu", {
-  strings: ["","Hey brother, I'm a Designer.", "I like website khoindvn.io.vn.io.vn =]] "],
+  strings: ["","Hey brother, I'm a Designer.", "I like website design =]] "],
   typeSpeed: 95,
   backSpeed: 75,
   loop: true
 })
 // MUSIC PLAY
 const MusicList=[
-    "//khoindvn.io.vn/document/Files/audio2.mp3",
-    "//khoindvn.io.vn/document/Files/audio3.mp3",
-    "//khoindvn.io.vn/document/Files/audio1.mp3",
+    "//Khơindvn.com/files/Em-Nào-Có-Tội.mp3",
+    "//Khơindvn.com/files/Anh-Đã-Quen-Với-Cô-Đơn.mp3",
+    "//Khơindvn.com/files/Về-Bên-Anh.mp3",
 ];
 let t=parseInt(localStorage.getItem('td')) || Math.floor(Math.random() * MusicList.length);
 const audio=new Audio(MusicList[t]);
@@ -66,43 +66,31 @@ function ShowToast() {
         window.open(url, '_blank');
       }, 100);
     }
-     // SET URL WEB
-     $('#WEB').click(function() {
-      OpenUrl('https://cert.khoindvn.io.vn.io.vn/');
-  });
     // SET URL FACEBOOK
     $('#Facebook').click(function() {
-        OpenUrl('https://www.facebook.com/24NDVN1111?mibextid=LQQJ4d');
-    });
-      // SET URL MESSENGER
-    $('#Mesenger').click(function() {
-        OpenUrl('https://m.me/khoindvn.io.vn.esigncert');
-    });
-    // SET URL TELEGRAM
-    $('#Telegram').click(function() {
-        OpenUrl('https://t.me/khoindvn.io.vn');
+        OpenUrl('https://www.facebook.com/100035052735014');
     });
       // SET URL YOUTUBE
     $('#Youtube').click(function() {
-        OpenUrl('https://www.youtube.com/@khoindvn.io.vnModiOS/');
+        OpenUrl('https://www.youtube.com/channel/UCiSP9FWliPIwG-w59dJdilQ');
     });
-     // SET URL TELEGRAM GROUP
+    // SET URL DISCORDS
+    $('#Discord').click(function() {
+        OpenUrl('https://dsc.bio/WusKhơindvn');
+    });
+      // SET URL INSTAGRAM
     $('#Instagram').click(function() {
-        OpenUrl('https://t.me/+PMiIaLrEbrg3Njdl');
-    });
-      // SET URL ZALO
-     $('#Zalo').click(function() {
-         OpenUrl('https://zalo.me/g/tfyxml607');
+        OpenUrl('https://instagram.com/vuongsondieu2k2/');
     });
   });
-      
-    function Alerts() {
-      Swal.fire({
-        title: '𝙉𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 !',
-        text: '=>> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙃𝙪𝙣𝙣𝙞𝙚 𝙗𝙖𝙘𝙠 𝙩𝙤 𝙩𝙝𝙚 𝙝𝙤𝙢𝙚𝙥𝙖𝙜𝙚 <<=',
-        showConfirmButton: false
-      });
-    }
+  
+function Alerts() {
+  Swal.fire({
+    title: '𝙉𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 !',
+    text: '=>> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙃𝙪𝙣𝙣𝙞𝙚 𝙗𝙖𝙘𝙠 𝙩𝙤 𝙩𝙝𝙚 𝙝𝙤𝙢𝙚𝙥𝙖𝙜𝙚 🐬 <<=',
+    showConfirmButton: false
+  });
+}
 // Skill Language
 $('.skill-per').each(function() {
     var $this=$(this);
@@ -125,7 +113,7 @@ $('.skill-per').each(function() {
 var maxtheard;
 var testurl;
 var lsat_date=0;
-var CountryCode_khoindvn.io.vn={
+var CountryCode_Khơindvn={
     US: "United States",
     CA: "California",
     HK: "HongKong (Trung Quốc)",
