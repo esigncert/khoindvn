@@ -7,7 +7,7 @@ $(function(){
     ShowToast();
     __GetIP();
     __GetInfo();
-    console.log("%c🌳 Name：KhơindvnTv | Bio：Sayy Hello | Url：https://www.Khơindvn.com 🌳", "font-family: ;color:#fff; background: linear-gradient(270deg, #18d7d3, #68b7dd, #8695e6, #986fee); padding: 8px 15px; border-radius: 8px");
+    console.log("%c🌳 Name：ThanhDieuTv | Bio：Sayy Hello | Url：https://www.thanhdieu.com 🌳", "font-family: ;color:#fff; background: linear-gradient(270deg, #18d7d3, #68b7dd, #8695e6, #986fee); padding: 8px 15px; border-radius: 8px");
     console.log("…………./´¯/)……….. (\\¯’\\\n…………/….//……….. …\\\\….\\\n………../….//………… ….\\\\….\\\n…../´¯/…./´¯\\\\………../¯‘\\\\…./¯’\\\\\n.././…/…./…./.|_|……_| .\\\\…\\\\…\\\\…\\\\.\\\\\n(.(….(….(…./.)..)..(..(. \\\\….)….)….).)\n.\\\\…………….\\/…/…\\\\. ..\\/……………./\n..\\\\…………….. /……..\\\\………………../\n…\\\\…………..(………. ..)……………./");
   });
 // CHECK FPS
@@ -33,9 +33,9 @@ let typed=new Typed(".GioiThieu", {
 })
 // MUSIC PLAY
 const MusicList=[
-    "//Khơindvn.com/files/Em-Nào-Có-Tội.mp3",
-    "//Khơindvn.com/files/Anh-Đã-Quen-Với-Cô-Đơn.mp3",
-    "//Khơindvn.com/files/Về-Bên-Anh.mp3",
+    "//thanhdieu.com/files/Em-Nào-Có-Tội.mp3",
+    "//thanhdieu.com/files/Anh-Đã-Quen-Với-Cô-Đơn.mp3",
+    "//thanhdieu.com/files/Về-Bên-Anh.mp3",
 ];
 let t=parseInt(localStorage.getItem('td')) || Math.floor(Math.random() * MusicList.length);
 const audio=new Audio(MusicList[t]);
@@ -76,7 +76,7 @@ function ShowToast() {
     });
     // SET URL DISCORDS
     $('#Discord').click(function() {
-        OpenUrl('https://dsc.bio/WusKhơindvn');
+        OpenUrl('https://dsc.bio/WusThanhDieu');
     });
       // SET URL INSTAGRAM
     $('#Instagram').click(function() {
@@ -113,7 +113,7 @@ $('.skill-per').each(function() {
 var maxtheard;
 var testurl;
 var lsat_date=0;
-var CountryCode_Khơindvn={
+var CountryCode_ThanhDieu={
     US: "United States",
     CA: "California",
     HK: "HongKong (Trung Quốc)",
