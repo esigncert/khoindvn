@@ -1,0 +1,171 @@
+.app-section .esign-section {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    overflow-x: auto;
+    justify-content: center;
+}
+.app-group {
+    width: 30em;
+}
+.app img {
+    height: 4em;
+    border-radius: 16px;
+}
+
+.app {
+    margin: 1rem;
+    display: flex;
+
+}
+.line {
+    position: relative;
+    margin-top: 3em;
+}
+.line::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.install-btn {
+    
+    padding: 8px 26px;
+    font-size: 13px;
+    border-radius: 999px;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    background-color: #007aff; /* iOS blue */
+    transition-duration: 0.3s;
+    font-weight: 800;
+    right: 0;
+}
+
+.install-btn:hover {
+    background-color: #005bb5; /* iOS dark blue */
+}
+
+.app-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 1em;
+    border-radius: .5rem;
+    transition-duration: 0.3s;
+}
+
+.app-container:hover {
+    background-color: #cecece6b;
+    cursor: pointer;
+}
+
+.app-container h1 {
+    padding-top: 4px;
+    /* color: oklch(27.8078% .029596 256.847952); */
+    font-size: 18px;
+    margin: 0;
+    text-align: left;
+    font-weight: 400;
+}
+/* .app-container i::before {
+    content: "";
+    font-family: iconfont !important;
+    font-style: normal;
+    font-weight: 400 !important;
+    vertical-align: top;
+    line-height: 1;
+} */
+
+.app-container p {
+    /* color: oklch(27.8078% .029596 256.847952); */
+    font-size: 14px;
+    margin: 0;
+    text-align: left;
+    font-weight: 300;
+}
+
+.enter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 1001;
+    pointer-events: none;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    transition: opacity 1s ease;
+
+}
+
+@media screen and (max-width: 1000px) {
+    .app-container {
+        padding-right: 2em;  
+    }
+    .app-section .esign-section {
+        width: 100%;
+        
+    }
+    
+    
+}
+
+@media screen and (max-width: 600px) {
+
+    .app-container {
+        position: relative;
+    }
+    .app-container::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 6em;
+        width: 75%;
+        border-bottom: 1px solid #ddd;
+    }
+    
+    .app-container:last-child::after {
+        border-bottom: none; 
+    }
+    
+    .app img {
+        height: 4em;
+        border-radius: 16px;
+    }
+    
+    .install-btn {
+        padding: 8px 26px;
+        font-size: 13px;
+    }
+    
+    .app-container h1 {
+        font-size: 16px;
+    }
+
+    .app-container:hover {
+        background-color: #cecece6b;
+        cursor: pointer;
+    }
+
+    
+    
+}
+
+.scroll-container {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap; 
+}
+
+.scroll-item {
+    flex: 0 0 auto;
+    padding: 10px;
+    margin: 5px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    width: 200px; 
+}
