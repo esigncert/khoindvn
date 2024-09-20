@@ -1,46 +1,46 @@
 
 const apps = [
     {
-        name: 'Liên Quân Mobile',
+        name: 'Liên Quân Mobile Hack',
         url: 'https://sub4unlock.io/Lx24i',
         img: 'img/pf/lq.png',
-        descriptions: 'Hack Map & Mod Skin'
+        descriptions: '𝗣𝗵𝗶𝗲̂𝗻 𝗕𝗮̉𝗻 𝗛𝗮𝗰𝗸 𝗠𝗮𝗽 & 𝗠𝗼𝗱 𝗦𝗸𝗶𝗻 𝗔𝗻𝘁𝗶𝗻𝗯𝗮𝗻𝗱 𝗖𝗮𝗼'
     },
     {
         name: 'Key Liên Quân Mobile',
         url: 'https://sub4unlock.io/BqV3N7gwA9',
         img: 'img/pf/lq.png',
-        descriptions: 'HSD key 30 ngày'
+        descriptions: 'key 30 ngày'
     },
     {
-        name: 'TrollStore X',
+        name: 'TrollStore X ✅',
         url: 'https://yeumoney.com/j98nb',
         img: 'img/pf/Trollst.png',
-        descriptions: 'Support iOS 14.0-16.6.1'
+        descriptions: '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗶𝗢𝗦 𝟭𝟰.𝟬-𝟭𝟲.𝟲.𝟭'
     },
     {
-        name: 'Spotify',
+        name: 'Spotify ✅',
         url: 'https://sub4unlock.io/ZO6D2',
         img: 'img/pf/spotify.png',
         descriptions: 'MOD Premium'
     },
     {
-        name: 'Tiktok Dark',
+        name: 'Tiktok Dark ✅',
         url: 'https://sub4unlock.io/RWAQs',
         img: 'img/pf/tiktok.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
-        name: 'Video Star Old',
+        name: 'Video Star Old ✅',
         url: 'https://sub4unlock.io/I87oR',
         img: 'img/pf/video.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
-        name: 'IPA Coin Master Speed',
+        name: 'Coin Master Speed',
         url: 'https://sub4unlock.io/mTOsI',
         img: 'img/pf/coin.png',
-        descriptions: '🇻🇳 Việt Nam'
+        descriptions: 'file iPA Hack Speed Phiên Bản 3.5.1770'
     }, 
 ]
 
