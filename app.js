@@ -15,7 +15,7 @@ const apps = [
     {
         name: 'TrollStore X',
         url: 'https://yeumoney.com/j98nb',
-        img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
+        img: 'img/pf/Trollst.png',
         descriptions: 'Support iOS 14.0-16.6.1'
     },
     {
