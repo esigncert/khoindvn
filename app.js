@@ -62,22 +62,22 @@ const esigns = [
         img: 'img/pf/profile-pic.png',
         descriptions: 'Cert China CITIC'
     },{
-        name: 'Esign HDFC Life',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/JdI495',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Cert HDFC Life'
     },{
-        name: 'Esign Henan Provincial',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/aJJPlE',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Cert Henan Provincial'
     },{
-        name: 'Esign Sunshine',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/PYdXWo',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Cert Sunshine'
     },{
-        name: 'Esign Sunshine 1',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/EHXoPK',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Cert Sunshine 1'
