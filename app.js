@@ -1,33 +1,28 @@
 
-const apps = [{
-        name: 'Esign Sunshine 1',
-        url: 'https://www.facebook.com/24NDVN1111?mibextid=LQQJ4d',
-        img: 'img/pf/profile-pic.png',
-        descriptions: '🇻🇳 Việt Nam'
-    },
+const apps = [
     {
-        name: 'Update TF LQ Hack Map & Mod Skin',
+        name: 'Liên Quân Mobile',
         url: 'https://sub4unlock.io/Lx24i',
-        img: 'https://ipa.chungchi365.com/api/storage/image/preview/284326462fa3756ecddcbe18437d8779',
-        descriptions: '🇻🇳 Việt Nam'
+        img: 'img/pf/lq.png',
+        descriptions: 'Hack Map & Mod Skin'
     },
     {
-        name: 'Update Key LQ Hack Map & Mod Skin',
+        name: 'Key Liên Quân Mobile',
         url: 'https://sub4unlock.io/BqV3N7gwA9',
         img: 'img/pf/lq.png',
-        descriptions: '🇻🇳 Việt Nam'
+        descriptions: 'HSD key 30 ngày'
     },
     {
         name: 'TrollStore X',
         url: 'https://yeumoney.com/j98nb',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: '🇻🇳 Việt Nam'
+        descriptions: 'Support iOS 14.0-16.6.1'
     },
     {
-        name: 'Spotify Premium',
+        name: 'Spotify',
         url: 'https://sub4unlock.io/ZO6D2',
         img: 'img/pf/spotify.png',
-        descriptions: '🇻🇳 Việt Nam'
+        descriptions: 'MOD Premium'
     },
     {
         name: 'Tiktok Dark',
@@ -46,53 +41,46 @@ const apps = [{
         url: 'https://sub4unlock.io/mTOsI',
         img: 'img/pf/coin.png',
         descriptions: '🇻🇳 Việt Nam'
-    },
-    {
-        name: 'IPA Apple Ware',
-        url: 'https://sub4unlock.io/zhBcR',
-        img: 'img/pf/robloc.png',
-        descriptions: '🇻🇳 Việt Nam'
-    },
-    
+    }, 
 ]
 
 const esigns = [
     {
-        name: 'Esign ANBANG INSURANCE',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/fK34ZN',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert ANBANG INSURANCE'
     },
     {
-        name: 'Esign Bank Of Chongqing',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/S3pESj',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert Bank Of Chongqing'
     },{
-        name: 'Esign China CITIC',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/GqtMdU',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert China CITIC'
     },{
         name: 'Esign HDFC Life',
         url: 'https://api.khoindvn.eu.org/JdI495',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert HDFC Life'
     },{
         name: 'Esign Henan Provincial',
         url: 'https://api.khoindvn.eu.org/aJJPlE',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert Henan Provincial'
     },{
         name: 'Esign Sunshine',
         url: 'https://api.khoindvn.eu.org/PYdXWo',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert Sunshine'
     },{
         name: 'Esign Sunshine 1',
         url: 'https://api.khoindvn.eu.org/EHXoPK',
         img: 'img/pf/profile-pic.png',
-        descriptions: ''
+        descriptions: 'Cert Sunshine 1'
     }
 ];
 
