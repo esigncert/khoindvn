@@ -93,9 +93,15 @@ const esignContainer = document.querySelector('.esign-section');
 
 apps.forEach(app => {
     appContainer.innerHTML += render(app.name, app.url, app.img, app.descriptions);
+    appContainer.addEventListener('click', () => {
+        window.open(app.url, '_blank');
+    });
 });
 esigns.forEach(esign => {
     esignContainer.innerHTML += render(esign.name, esign.url, esign.img, esign.descriptions);
+    esignContainer.addEventListener('click', () => {
+        window.open(esign.url, '_blank');
+    });
 });
 function render(name, url, img, description) {
     return  `<div class="app-container">
