@@ -1,11 +1,6 @@
 
 const apps = [
      {
-        name: 'ESign ✅',
-        url: 'https://api.khoindvn.eu.org/ushYDG',
-        img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗖𝗵𝗶𝗻𝗮𝗖𝗼𝗻𝘁𝗶𝗻𝗲𝗻𝘁'
-    },{
         name: 'Liên Quân Mobile Hack',
         url: 'https://sub4unlock.io/Lx24i',
         img: 'img/pf/lq.png',
