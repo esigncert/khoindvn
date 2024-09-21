@@ -1,101 +1,86 @@
 
 const apps = [
-     {
-        name: 'Liên Quân Mobile Hack',
+    {
+        name: 'Liên Quân Mobile',
         url: 'https://sub4unlock.io/Lx24i',
         img: 'img/pf/lq.png',
-        descriptions: '𝗣𝗵𝗶𝗲̂𝗻 𝗕𝗮̉𝗻 𝗛𝗮𝗰𝗸 𝗠𝗮𝗽 & 𝗠𝗼𝗱 𝗦𝗸𝗶𝗻 𝗔𝗻𝘁𝗶𝗻𝗯𝗮𝗻𝗱 𝗖𝗮𝗼'
+        descriptions: 'Hack Map & Mod Skin'
     },
     {
         name: 'Key Liên Quân Mobile',
         url: 'https://sub4unlock.io/BqV3N7gwA9',
         img: 'img/pf/lq.png',
-        descriptions: 'key 30 ngày'
+        descriptions: 'HSD key 30 ngày'
     },
     {
-        name: 'TrollStore X ✅',
+        name: 'TrollStore X',
         url: 'https://yeumoney.com/j98nb',
-        img: 'img/pf/Trollst.png',
-        descriptions: '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗶𝗢𝗦 𝟭𝟰.𝟬-𝟭𝟲.𝟲.𝟭'
+        img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
+        descriptions: 'Support iOS 14.0-16.6.1'
     },
     {
-        name: 'Spotify ✅',
+        name: 'Spotify',
         url: 'https://sub4unlock.io/ZO6D2',
         img: 'img/pf/spotify.png',
         descriptions: 'MOD Premium'
     },
     {
-        name: 'Tiktok Dark ✅',
+        name: 'Tiktok Dark',
         url: 'https://sub4unlock.io/RWAQs',
         img: 'img/pf/tiktok.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
-        name: 'Video Star Old ✅',
+        name: 'Video Star Old',
         url: 'https://sub4unlock.io/I87oR',
         img: 'img/pf/video.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
-        name: 'Coin Master Speed',
+        name: 'IPA Coin Master Speed',
         url: 'https://sub4unlock.io/mTOsI',
         img: 'img/pf/coin.png',
-        descriptions: 'file iPA Hack Speed Phiên Bản 3.5.1770'
+        descriptions: '🇻🇳 Việt Nam'
     }, 
 ]
 
 const esigns = [
     {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/pJmrRw',
-        img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗩𝗜𝗘𝗧𝗡𝗔𝗠 𝗣𝗢𝗦𝗧𝗦 𝗔𝗡𝗗 𝗧𝗘𝗟𝗘𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 𝗚𝗥𝗢𝗨𝗣 - 𝗛𝗢 𝗖𝗛𝗜 𝗠𝗜𝗡𝗛 𝗖𝗜𝗧𝗬 𝗧𝗘𝗟𝗘𝗖𝗢𝗠 𝗕𝗥𝗔𝗡𝗖𝗛'
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/i8ZINf',
-        img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗜𝗧 & 𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗖𝗲𝗻𝘁𝗲𝗿 - 𝗩𝗶𝗲𝘁𝘁𝗲𝗹'
-    },{
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/qKnJ4U',
-        img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗩𝗶𝗲𝘁𝗻𝗮𝗺 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹 𝗝𝗼𝗶𝗻𝘁- 𝘀𝘁𝗼𝗰𝗸 𝗕𝗮𝗻𝗸'
-    },{
-        name: 'ESign',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/fK34ZN',
         img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗔𝗡𝗕𝗔𝗡𝗚 𝗜𝗡𝗦𝗨𝗥𝗔𝗡𝗖𝗘'
-    },{
-        name: 'ESign',
+        descriptions: 'Cert ANBANG INSURANCE'
+    },
+    {
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/S3pESj',
         img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗕𝗮𝗻𝗸 𝗢𝗳 𝗖𝗵𝗼𝗻𝗴𝗾𝗶𝗻𝗴'
+        descriptions: 'Cert Bank Of Chongqing'
     },{
-        name: 'ESign',
+        name: 'Esign',
         url: 'https://api.khoindvn.eu.org/GqtMdU',
         img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗖𝗵𝗶𝗻𝗮 𝗖𝗜𝗧𝗜𝗖'
+        descriptions: 'Cert China CITIC'
     },{
-        name: 'ESign',
+        name: 'Esign HDFC Life',
         url: 'https://api.khoindvn.eu.org/JdI495',
         img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗛𝗗𝗙𝗖 𝗟𝗶𝗳𝗲'
+        descriptions: 'Cert HDFC Life'
     },{
-        name: 'ESign',
+        name: 'Esign Henan Provincial',
+        url: 'https://api.khoindvn.eu.org/aJJPlE',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Cert Henan Provincial'
+    },{
+        name: 'Esign Sunshine',
         url: 'https://api.khoindvn.eu.org/PYdXWo',
         img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗛𝗲𝗻𝗮𝗻 𝗣𝗿𝗼𝘃𝗶𝗻𝗰𝗶𝗮𝗹'
+        descriptions: 'Cert Sunshine'
     },{
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/PYdXWo',
-        img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗦𝘂𝗻𝘀𝗵𝗶𝗻𝗲'
-    },{
-        name: 'ESign',
+        name: 'Esign Sunshine 1',
         url: 'https://api.khoindvn.eu.org/EHXoPK',
         img: 'img/pf/profile-pic.png',
-        descriptions: '𝗖𝗲𝗿𝘁 𝗦𝘂𝗻𝘀𝗵𝗶𝗻𝗲 𝟭'
+        descriptions: 'Cert Sunshine 1'
     }
 ];
 
@@ -108,15 +93,25 @@ const esignContainer = document.querySelector('.esign-section');
 
 apps.forEach(app => {
     appContainer.innerHTML += render(app.name, app.url, app.img, app.descriptions);
-    appContainer.addEventListener('click', () => {
-        window.open(app.url, '_blank');
-    });
 });
 esigns.forEach(esign => {
     esignContainer.innerHTML += render(esign.name, esign.url, esign.img, esign.descriptions);
-    esignContainer.addEventListener('click', () => {
-        window.open(esign.url, '_blank');
-    });
+});
+
+appContainer.addEventListener('click', (event) => {
+    const target = event.target.closest('.app-container');
+    if (target) {
+        const url = target.querySelector('.download-btn').getAttribute('href');
+        window.open(url, '_blank');
+    }
+});
+
+esignContainer.addEventListener('click', (event) => {
+    const target = event.target.closest('.app-container');
+    if (target) {
+        const url = target.querySelector('.download-btn').getAttribute('href');
+        window.open(url, '_blank');
+    }
 });
 function render(name, url, img, description) {
     return  `<div class="app-container">
