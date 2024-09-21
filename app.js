@@ -10,38 +10,32 @@ const apps = [
         url: 'https://sub4unlock.io/Lx24i',
         img: 'img/pf/lq.png',
         descriptions: '𝗣𝗵𝗶𝗲̂𝗻 𝗕𝗮̉𝗻 𝗛𝗮𝗰𝗸 𝗠𝗮𝗽 & 𝗠𝗼𝗱 𝗦𝗸𝗶𝗻 𝗔𝗻𝘁𝗶𝗻𝗯𝗮𝗻𝗱 𝗖𝗮𝗼'
-    },
-    {
+    },{
         name: 'Key Liên Quân Mobile',
         url: 'https://sub4unlock.io/BqV3N7gwA9',
         img: 'img/pf/lq.png',
         descriptions: 'key 30 ngày'
-    },
-    {
+    },{
         name: 'TrollStore X ✅',
         url: 'https://yeumoney.com/j98nb',
         img: 'img/pf/Trollst.png',
         descriptions: '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗶𝗢𝗦 𝟭𝟰.𝟬-𝟭𝟲.𝟲.𝟭'
-    },
-    {
+    },{
         name: 'Spotify ✅',
         url: 'https://sub4unlock.io/ZO6D2',
         img: 'img/pf/spotify.png',
         descriptions: 'MOD Premium'
-    },
-    {
+    },{
         name: 'Tiktok Dark ✅',
         url: 'https://sub4unlock.io/RWAQs',
         img: 'img/pf/tiktok.png',
         descriptions: '🇻🇳 Việt Nam'
-    },
-    {
+    },{
         name: 'Video Star Old ✅',
         url: 'https://sub4unlock.io/I87oR',
         img: 'img/pf/video.png',
         descriptions: '🇻🇳 Việt Nam'
-    },
-    {
+    },{
         name: 'Coin Master Speed',
         url: 'https://sub4unlock.io/mTOsI',
         img: 'img/pf/coin.png',
@@ -55,8 +49,7 @@ const esigns = [
         url: 'https://api.khoindvn.eu.org/pJmrRw',
         img: 'img/pf/profile-pic.png',
         descriptions: '𝗖𝗲𝗿𝘁 𝗩𝗜𝗘𝗧𝗡𝗔𝗠 𝗣𝗢𝗦𝗧𝗦 𝗔𝗡𝗗 𝗧𝗘𝗟𝗘𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 𝗚𝗥𝗢𝗨𝗣 - 𝗛𝗢 𝗖𝗛𝗜 𝗠𝗜𝗡𝗛 𝗖𝗜𝗧𝗬 𝗧𝗘𝗟𝗘𝗖𝗢𝗠 𝗕𝗥𝗔𝗡𝗖𝗛'
-    },
-    {
+    },{
         name: 'ESign',
         url: 'https://api.khoindvn.eu.org/i8ZINf',
         img: 'img/pf/profile-pic.png',
