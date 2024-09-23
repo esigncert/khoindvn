@@ -4,7 +4,7 @@ const apps = [
         name: 'ESign Sunshine 2 ✅',
         url: 'https://api.khoindvn.eu.org/w3YH8U',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'HSD key 30 ngày'
+        descriptions: 'Cert Sunshine 2'
     },
     {
         name: 'Liên Quân Mobile',
