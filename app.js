@@ -14,9 +14,9 @@ const apps = [
     },
     {
         name: 'Key Liên Quân Mobile',
-        url: 'https://sub4unlock.io/BqV3N7gwA9',
+        url: 'https://sub4unlock.io/7CYKA',
         img: 'img/pf/lq.png',
-        descriptions: 'HSD key 30 ngày'
+        descriptions: 'key 30 ngày Update ngày 24/9'
     },
     {
         name: 'TrollStore X ✅',
