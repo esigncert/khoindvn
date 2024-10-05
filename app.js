@@ -1,22 +1,16 @@
 
 const apps = [
     {
-        name: 'ESign Sunshine 2 ✅',
-        url: 'https://api.khoindvn.eu.org/w3YH8U',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Cert Sunshine 2'
-    },
-    {
-        name: 'Liên Quân Mobile',
-        url: 'https://sub4unlock.io/Lx24i',
+        name: 'Liên Quân Mobile ✅',
+        url: 'https://sub4unlock.io/XQMWh',
         img: 'img/pf/lq.png',
         descriptions: 'Hack Map & Mod Skin'
     },
     {
         name: 'Key Liên Quân Mobile',
-        url: 'https://sub4unlock.io/7CYKA',
+        url: 'https://sub4unlock.io/pFzJL',
         img: 'img/pf/lq.png',
-        descriptions: 'key 30 ngày Update ngày 24/9'
+        descriptions: 'key 30 ngày Update ngày 5/10'
     },
     {
         name: 'TrollStore X ✅',
@@ -25,25 +19,37 @@ const apps = [
         descriptions: 'Support iOS 14.0-16.6.1'
     },
     {
-        name: 'Spotify',
+        name: 'Coin Master HAX Speed✅',
+        url: 'https://sub4unlock.io/2T3Fk',
+        img: 'img/pf/coin.png',
+        descriptions: 'Link cài Trực tiếp'
+    },
+    {
+        name: 'Locket Gold ✅',
+        url: 'https://sub4unlock.io/nQ7rx',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
+        descriptions: 'Link cài Trực tiếp'
+    },
+    {
+        name: 'Spotify ✅',
         url: 'https://sub4unlock.io/UaCH4',
         img: 'img/pf/spotify.png',
         descriptions: 'MOD Premium'
     },
     {
-        name: 'Tiktok Dark',
+        name: 'Tiktok Dark ✅',
         url: 'https://sub4unlock.io/hCyKu',
         img: 'img/pf/tiktok.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
-        name: 'Video Star Old',
+        name: 'Video Star Old ✅',
         url: 'https://sub4unlock.io/OmKP8',
         img: 'img/pf/video.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
-        name: 'IPA Coin Master Speed',
+        name: 'iPA Coin Master Speed',
         url: 'https://sub4unlock.io/pMV1U',
         img: 'img/pf/coin.png',
         descriptions: '🇻🇳 Việt Nam'
@@ -116,6 +122,12 @@ const esigns = [
         url: 'https://api.khoindvn.eu.org/EHXoPK',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Cert Sunshine 1'
+    },
+    {
+        name: 'ESign Sunshine 2',
+        url: 'https://api.khoindvn.eu.org/w3YH8U',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Cert Sunshine 2'
     }
 ];
 
