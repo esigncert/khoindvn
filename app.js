@@ -20,7 +20,7 @@ const apps = [
     },
     {
         name: 'Coin Master HAX Speed✅',
-        url: 'https://sub4unlock.io/2T3Fk',
+        url: 'https://sub4unlock.io/69MVk',
         img: 'img/pf/coin.png',
         descriptions: 'Link cài Trực tiếp'
     },
