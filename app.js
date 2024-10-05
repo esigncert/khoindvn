@@ -14,7 +14,7 @@ const apps = [
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://sub4unlock.io/jh5Xr',
+        url: 'https://sub4unlock.io/sJMuz',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Support iOS 14.0-16.6.1'
     },
@@ -32,25 +32,25 @@ const apps = [
     },
     {
         name: 'Spotify ✅',
-        url: 'https://sub4unlock.io/UaCH4',
+        url: 'https://sub4unlock.io/XoJKQ',
         img: 'img/pf/spotify.png',
         descriptions: 'MOD Premium'
     },
     {
         name: 'Tiktok Dark ✅',
-        url: 'https://sub4unlock.io/hCyKu',
+        url: 'https://sub4unlock.io/csN9S',
         img: 'img/pf/tiktok.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
         name: 'Video Star Old ✅',
-        url: 'https://sub4unlock.io/OmKP8',
+        url: 'https://sub4unlock.io/qAym9',
         img: 'img/pf/video.png',
         descriptions: '🇻🇳 Việt Nam'
     },
     {
         name: 'iPA Coin Master Speed',
-        url: 'https://sub4unlock.io/pMV1U',
+        url: 'https://sub4unlock.io/IbKPN',
         img: 'img/pf/coin.png',
         descriptions: '🇻🇳 Việt Nam'
     }, 
