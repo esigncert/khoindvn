@@ -17,7 +17,7 @@ const socials = [
     },
     {
         name: 'zalo',
-        url: 'Zalo.me/0386495528'}
+        url: 'https://zalo.me/0386495528'}
 ]
 const typingSpeed = 100; 
 const deletingSpeed = 50; 
