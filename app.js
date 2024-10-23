@@ -10,7 +10,7 @@ const apps = [
         name: 'Key Liên Quân Mobile',
         url: 'https://sub4unlock.io/s13UL',
         img: 'img/pf/lq.png',
-        descriptions: 'key 30 ngày Update ngày 5/10'
+        descriptions: 'key 30 ngày Update ngày 23/10'
     },
     {
         name: 'TrollStore X ✅',
