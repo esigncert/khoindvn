@@ -2,15 +2,15 @@
 const apps = [
     {
         name: 'Liên Quân Mobile ✅',
-        url: 'https://sub4unlock.io/foPcF',
+        url: 'https://sub4unlock.io/f42SD',
         img: 'img/pf/lq.png',
-        descriptions: 'Hack Map'
+        descriptions: 'Hack Map Và Mod Skin'
     },
     {
         name: 'Key Liên Quân Mobile',
         url: 'https://sub4unlock.io/s13UL',
         img: 'img/pf/lq.png',
-        descriptions: 'key 30 ngày Update ngày 23/10'
+        descriptions: 'key free 30 ngày Update ngày 25/10'
     },
     {
         name: 'TrollStore X ✅',
