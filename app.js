@@ -10,7 +10,7 @@ const apps = [
         name: 'Key LQ HAck Map',
         url: 'https://sub4unlock.io/FjLfS',
         img: 'img/pf/lq.png',
-        descriptions: 'key free 30 ngày Update ngày 25/10'
+        descriptions: 'key free 30 ngày Update ngày 28/10'
     },
     {
         name: 'Liên Quân Mod full Skin ✅',
@@ -22,7 +22,7 @@ const apps = [
         name: 'Key Liên Quân Mod full Skin',
         url: 'https://sub4unlock.io/a2Y3A',
         img: 'img/pf/lq.png',
-        descriptions: 'key free 30 ngày Update ngày 25/10'
+        descriptions: 'key free 30 ngày Update ngày 28/10'
     },
     {
         name: 'TrollStore X ✅',
