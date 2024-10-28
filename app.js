@@ -1,14 +1,26 @@
 
 const apps = [
     {
-        name: 'Liên Quân Mobile ✅',
-        url: 'https://sub4unlock.io/f42SD',
+        name: 'Liên Quân HAck Map',
+        url: 'https://sub4unlock.io/aqdzb',
         img: 'img/pf/lq.png',
-        descriptions: 'Hack Map Và Mod Skin'
+        descriptions: 'Hack Map Và Mod Full skin LQ'
     },
     {
-        name: 'Key Liên Quân Mobile',
-        url: 'https://sub4unlock.io/s13UL',
+        name: 'Key LQ HAck Map',
+        url: 'https://sub4unlock.io/FjLfS',
+        img: 'img/pf/lq.png',
+        descriptions: 'key free 30 ngày Update ngày 25/10'
+    },
+    {
+        name: 'Liên Quân Mod full Skin',
+        url: 'https://sub4unlock.io/UV2x9',
+        img: 'img/pf/lq.png',
+        descriptions: 'Ko Hack Map chỉ MOD Full skin LQ'
+    },
+    {
+        name: 'Key Liên Quân Mod full Skin',
+        url: 'https://sub4unlock.io/a2Y3A',
         img: 'img/pf/lq.png',
         descriptions: 'key free 30 ngày Update ngày 25/10'
     },
