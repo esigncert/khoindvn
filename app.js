@@ -8,9 +8,9 @@ const apps = [
     },
     {
         name: 'Key LQ HAck Map',
-        url: 'https://sub4unlock.io/FjLfS',
+        url: 'https://sub4unlock.io/Edvsj',
         img: 'img/pf/lq.png',
-        descriptions: 'key free 30 ngày Update ngày 28/10'
+        descriptions: 'key free 30 ngày Update ngày 15/11'
     },
     {
         name: 'Liên Quân Mod full Skin ✅',
@@ -20,9 +20,9 @@ const apps = [
     },
     {
         name: 'Key Liên Quân Mod full Skin',
-        url: 'https://sub4unlock.io/a2Y3A',
+        url: 'https://sub4unlock.io/6bex1',
         img: 'img/pf/lq.png',
-        descriptions: 'key free 30 ngày Update ngày 28/10'
+        descriptions: 'key free 30 ngày Update ngày 15/11'
     },
     {
         name: 'TrollStore X ✅',
@@ -62,7 +62,7 @@ const apps = [
     },
     {
         name: 'iPA Coin Master Speed',
-        url: 'https://sub4unlock.io/IbKPN',
+        url: 'https://sub4unlock.io/WrMqy',
         img: 'img/pf/coin.png',
         descriptions: '🇻🇳 Việt Nam'
     }, 
