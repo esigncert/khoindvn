@@ -79,7 +79,7 @@ const esigns = [
         name: 'Esign',
         url: 'https://api.khoindvn.eu.org/KFfzJT',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Henan Provincial Communications Planning Survey & Design Institute Co.,Ltd.'
+        descriptions: 'Zhuhaishi ShijiXintong Network Technology Co., Ltd.'
     },
     {
         name: 'Esign',
