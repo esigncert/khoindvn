@@ -106,19 +106,19 @@ const esigns = [
         descriptions: 'Mylan Inc.'
     },
     {
-        name: 'ESign Sunshine 1',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/2DIXpE',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 1'
     },
     {
-        name: 'ESign Sunshine 2',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/W8XLt6',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 2'
     },
     {
-        name: 'ESign Sunshine 3',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/su0YSC',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 3'
