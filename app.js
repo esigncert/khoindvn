@@ -106,28 +106,22 @@ const esigns = [
         descriptions: 'Mylan Inc.'
     },
     {
-        name: 'Esign',
+        name: 'ESign Sunshine 1',
         url: 'https://api.khoindvn.eu.org/2DIXpE',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Gac Trumpchi Car Sales Co., Ltd.'
+        descriptions: 'Sunshine 1'
     },
     {
-        name: 'Esign',
+        name: 'ESign Sunshine 2',
         url: 'https://api.khoindvn.eu.org/W8XLt6',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'ARADA DEVELOPMENTS LLC'
+        descriptions: 'Sunshine 2'
     },
     {
-        name: 'Esign Sunshine',
+        name: 'ESign Sunshine 3',
         url: 'https://api.khoindvn.eu.org/su0YSC',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Sunshine'
-    },
-    {
-        name: 'ESign Sunshine 1',
-        url: 'https://api.khoindvn.eu.org/9omQCV',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Sunshine 1'
+        descriptions: 'Sunshine 3'
     }
 ];
 
