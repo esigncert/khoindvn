@@ -76,31 +76,31 @@ const esigns = [
         descriptions: 'VIETNAM POSTS AND TELECOMMUNICATIONS GROUP - HO CHI MINH CITY TELECOM BRANCH'
     },
     {
-        name: 'Esign',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/KFfzJT',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Zhuhaishi ShijiXintong Network Technology Co., Ltd.'
     },
     {
-        name: 'Esign',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/4qEsqu',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Continent Property & Casualty Insurance Company Ltd.'
     },
     {
-        name: 'Esign',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/xMLciX',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Bank of Chongqing Co.,Ltd.'
     },
     {
-        name: 'Esign',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/WQfaVa',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sun Life Everbright Life Insurance Co.,Ltd'
     },
     {
-        name: 'Esign',
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/DEevZ5',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Mylan Inc.'
