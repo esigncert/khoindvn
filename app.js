@@ -4,7 +4,7 @@ const apps = [
         name: 'Liên Quân HAck Map ✅',
         url: 'https://sub4unlock.io/aqdzb',
         img: 'img/pf/lq.png',
-        descriptions: 'Hack Map Và Mod Full skin LQ'
+        descriptions: 'Hack Map Và Menu Mod skin LQ'
     },
     {
         name: 'Key LQ HAck Map',
@@ -13,13 +13,13 @@ const apps = [
         descriptions: 'key free 30 ngày Update ngày 15/11'
     },
     {
-        name: 'Liên Quân Mod full Skin ✅',
+        name: 'Liên Quân Mod Skin ✅',
         url: 'https://sub4unlock.io/UV2x9',
         img: 'img/pf/lq.png',
-        descriptions: 'Ko Hack Map chỉ MOD Full skin LQ'
+        descriptions: 'Ko Hack Map chỉ Menu Mod Mod skin'
     },
     {
-        name: 'Key Liên Quân Mod full Skin',
+        name: 'Key Liên Quân Mod Skin',
         url: 'https://sub4unlock.io/6bex1',
         img: 'img/pf/lq.png',
         descriptions: 'key free 30 ngày Update ngày 15/11'
