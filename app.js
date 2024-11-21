@@ -122,6 +122,12 @@ const esigns = [
         url: 'https://api.khoindvn.eu.org/su0YSC',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 3'
+    },
+    {
+        name: 'ESign',
+        url: 'https://api.khoindvn.eu.org/9omQCV',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Sunshine 4'
     }
 ];
 
