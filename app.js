@@ -32,15 +32,15 @@ const apps = [
     },
     {
         name: 'Coin Master HAX Speed✅',
-        url: 'https://sub4unlock.io/69MVk',
+        url: 'https://sub4unlock.io/71etL',
         img: 'img/pf/coin.png',
-        descriptions: 'Link cài Trực tiếp'
+        descriptions: 'Link cài Trực tiếp Update Ngày 3/12'
     },
     {
         name: 'Locket Gold ✅',
-        url: 'https://sub4unlock.io/nQ7rx',
+        url: 'https://sub4unlock.io/o4w62',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Link cài Trực tiếp'
+        descriptions: 'Link cài Trực tiếp Update Ngày 3-12'
     },
     {
         name: 'Spotify ✅',
