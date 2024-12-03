@@ -13,7 +13,7 @@ const socials = [
     },
     {
         name: 'telegram',
-        url: 'https://t.me/khoindvncert
+        url: 'https://t.me/khoindvncert'
     },
     {
         name: 'zalo',
