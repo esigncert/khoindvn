@@ -28,19 +28,19 @@ const apps = [
         name: 'TrollStore X ✅',
         url: 'https://sub4unlock.io/QPg5f',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Support iOS 14.0-16.6.1 Update Ngày 3-12'
+        descriptions: 'Support iOS 14.0-16.6.1 Update Ngày 12-12'
     },
     {
         name: 'Coin Master HAX Speed✅',
         url: 'https://sub4unlock.io/71etL',
         img: 'img/pf/coin.png',
-        descriptions: 'Link cài Trực tiếp Update Ngày 3/12'
+        descriptions: 'Link cài Trực tiếp Update Ngày 12/12'
     },
     {
         name: 'Locket Gold ✅',
         url: 'https://sub4unlock.io/o4w62',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Link cài Trực tiếp Update Ngày 3-12'
+        descriptions: 'Link cài Trực tiếp Update Ngày 12-12'
     },
     {
         name: 'Spotify ✅',
@@ -49,23 +49,11 @@ const apps = [
         descriptions: 'MOD Premium'
     },
     {
-        name: 'Tiktok Dark ✅',
-        url: 'https://sub4unlock.io/csN9S',
-        img: 'img/pf/tiktok.png',
-        descriptions: '🇻🇳 Việt Nam'
-    },
-    {
         name: 'Video Star Old ✅',
         url: 'https://sub4unlock.io/qAym9',
         img: 'img/pf/video.png',
         descriptions: '🇻🇳 Việt Nam'
     },
-    {
-        name: 'iPA Coin Master Speed',
-        url: 'https://sub4unlock.io/WrMqy',
-        img: 'img/pf/coin.png',
-        descriptions: '🇻🇳 Việt Nam'
-    }, 
 ]
 
 const esigns = [
