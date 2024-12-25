@@ -5,11 +5,11 @@ const texts = [
 const socials = [
     {
         name: 'facebook',
-        url: 'http://zalo.me/0386495528'
+        url: 'https://www.facebook.com/share/1XH7kThUjd/?mibextid=wwXIfr'
     },
     {
         name: 'messenger',
-        url: 'http://zalo.me/0386495528'
+        url: 'https://m.me/khoindvn.esigncert'
     },
     {
         name: 'telegram',
