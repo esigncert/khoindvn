@@ -56,76 +56,64 @@ const apps = [
     },
 ]
 
-const esigns = [
-    {
-        name: 'ESign ✅',
-        url: 'https://api.khoindvn.eu.org/GSpCqO',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'China Mobile Group Shandong Co., Ltd.'
-    },
+const esigns = [ 
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/X2O6R4',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Ministere de I Emploi de la Protection Sociale'
-    }
-    ,{
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/WGzl1s',
+        url: 'https://api.khoindvn.eu.org/0qvzM4',
         img: 'img/pf/profile-pic.png',
         descriptions: 'VIETNAM POSTS AND TELECOMMUNICATIONS GROUP - HO CHI MINH CITY TELECOM BRANCH'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/KFfzJT',
+        url: 'https://api.khoindvn.eu.org/c9hU7X',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Zhuhaishi ShijiXintong Network Technology Co., Ltd.'
+        descriptions: 'Bank of Chongqing Co Ltd'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/4qEsqu',
+        url: 'https://api.khoindvn.eu.org/8QDvZW',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Continent Property & Casualty Insurance Company Ltd.'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/xMLciX',
+        url: 'https://api.khoindvn.eu.org/Zc05zL',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Bank of Chongqing Co.,Ltd.'
+        descriptions: 'Zhuhaishi ShijiXintong Network Technology Co., Ltd.'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/WQfaVa',
+        url: 'https://api.khoindvn.eu.org/3RBYGh',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sun Life Everbright Life Insurance Co.,Ltd'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/DEevZ5',
+        url: 'https://api.khoindvn.eu.org/IhhDcS',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Mylan Inc.'
+        descriptions: 'Ministere de I Emploi de la Protection Sociale.'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/2DIXpE',
+        url: 'https://api.khoindvn.eu.org/gC8Roi',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 1'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/W8XLt6',
+        url: 'https://api.khoindvn.eu.org/lS7PZn',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 2'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/su0YSC',
+        url: 'https://api.khoindvn.eu.org/jEGeAZ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 3'
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/9omQCV',
+        url: 'https://api.khoindvn.eu.org/nkUzql',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 4'
     }
