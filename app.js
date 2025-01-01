@@ -32,7 +32,7 @@ const apps = [
     },
     {
         name: 'Coin Master Speed✅',
-        url: 'https://sub4unlock.io/DvV57',
+        url: 'https://sub4unlock.io/HtXGa',
         img: 'img/pf/coin.png',
         descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 01/01/2025'
     },
