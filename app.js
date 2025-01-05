@@ -8,9 +8,9 @@ const apps = [
     },
     {
         name: '𝐊𝐞𝐲 𝐋𝐐 𝐁𝐚̉𝐧 𝐇𝐚𝐜𝐤 𝐌𝐚𝐩',
-        url: 'https://sub4unlock.io/lUoF8',
+        url: 'https://sub4unlock.io/c4pMU',
         img: 'img/pf/lq.png',
-        descriptions: 'đã Update ngày 12/12'
+        descriptions: 'cập nhật ngày 05/01/2025'
     },
     {
         name: 'TrollStore X ✅',
