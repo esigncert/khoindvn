@@ -2,27 +2,15 @@
 const apps = [
     {
         name: 'Liên Quân Hack Map ✅',
-        url: 'https://sub4unlock.io/lA3x6',
+        url: 'https://sub4unlock.io/Se4FH',
         img: 'img/pf/lq.png',
-        descriptions: 'Hack Map Và Menu Mod skin LQ'
+        descriptions: 'Chỉ Hack Map Cài Qua TestFight'
     },
     {
         name: '𝐊𝐞𝐲 𝐋𝐐 𝐁𝐚̉𝐧 𝐇𝐚𝐜𝐤 𝐌𝐚𝐩',
         url: 'https://sub4unlock.io/lUoF8',
         img: 'img/pf/lq.png',
         descriptions: 'đã Update ngày 12/12'
-    },
-    {
-        name: 'Liên Quân Mod Skin ✅',
-        url: 'https://sub4unlock.io/UV2x9',
-        img: 'img/pf/lq.png',
-        descriptions: 'Ko Hack Map chỉ Menu Mod Mod skin'
-    },
-    {
-        name: '𝐊𝐞𝐲 𝐋𝐐 𝐁𝐚̉𝐧 𝐌𝐨𝐝 𝐒𝐤𝐢𝐧',
-        url: 'https://sub4unlock.io/YuFLT',
-        img: 'img/pf/lq.png',
-        descriptions: 'key free 30 ngày Update ngày 15/11'
     },
     {
         name: 'TrollStore X ✅',
