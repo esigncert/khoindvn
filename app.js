@@ -49,13 +49,7 @@ const esigns = [
         name: 'ESign',
         url: 'https://api.khoindvn.eu.org/0qvzM4',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'VIETNAM POSTS AND TELECOMMUNICATIONS GROUP - HO CHI MINH CITY TELECOM BRANCH'
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/c9hU7X',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Bank of Chongqing Co Ltd'
+        descriptions: 'AVEX DIGITAL INC'
     },
     {
         name: 'ESign',
