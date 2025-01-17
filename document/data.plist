@@ -11,7 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/esigncert/khoindvn/releases/download/khoi/lqmb.ipa</string>
+					<string>https://huocjg.sn.files.1drv.com/y4mDRCKhW7sdTHwGOM34j_6yAy6ua4nvVvEuf7JateKExxbZz3wQAcWX9IzjdPF1KN1TNzLWhXPlojkj3FBHZ7U1_sC7alhC6Z8YNduKgxRGox86sVAWurHzUPVVD2tdHgSH4NR5-EHYJxztus0nliwK6Nc8rLbD3LIbQgBp5uwU0gH3FZOjk3zpekhPmtWyEFKrWdQX0vaVTUuBjV15GH3iA</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
