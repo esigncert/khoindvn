@@ -4,13 +4,13 @@ const apps = [
         name: 'Liên Quân Hack Map ✅',
         url: 'https://sub4unlock.io/IJCxp',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map - Mod skin Cập Nhật Ngày 07/02/2025'
+        descriptions: 'Hack Map - Mod skin Cập Nhật Ngày 09/02/2025'
     },
     {
         name: '𝐊𝐞𝐲 𝐋𝐐 𝐁𝐚̉𝐧 𝐇𝐚𝐜𝐤 𝐌𝐚𝐩',
         url: 'https://sub4unlock.io/uHk5W',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'cập nhật ngày 07/02/2025'
+        descriptions: 'cập nhật ngày 09/02/2025'
     },
     {
         name: 'TrollStore X ✅',
