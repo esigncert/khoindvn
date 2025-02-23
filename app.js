@@ -14,7 +14,7 @@ const apps = [
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://sub4unlock.io/orIwb',
+        url: 'https://sub4unlock.io/YCGcM',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Support iOS 14.0-16.6.1 Cập Nhật Ngày 23/01/2025'
     },
@@ -22,13 +22,13 @@ const apps = [
         name: 'Coin Master Speed✅',
         url: 'https://sub4unlock.io/rJyuG',
         img: 'img/pf/coin.png',
-        descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 01/01/2025'
+        descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 23/02/2025'
     },
     {
         name: 'Locket Gold ✅',
         url: 'https://sub4unlock.io/OhzMr',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 01/01/2025'
+        descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 23/02/2025'
     },
     {
         name: 'Spotify ✅',
