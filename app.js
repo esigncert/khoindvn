@@ -26,7 +26,7 @@ const apps = [
     },
     {
         name: 'Locket Gold ✅',
-        url: 'https://sub4unlock.io/OhzMr',
+        url: 'https://sub4unlock.io/tPr1D',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
         descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 26/02/2025'
     },
