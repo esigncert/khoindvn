@@ -52,6 +52,12 @@ const apps = [
 
 const esigns = [ 
     {
+        name: 'ESign Live ✅',
+        url: 'https://api.khoindvn.eu.org/5NW0Fd',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Kotak Mahindra Bank Ltd'
+    },
+    {
         name: 'ESign',
         url: 'https://api.khoindvn.eu.org/0qvzM4',
         img: 'img/pf/profile-pic.png',
