@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/852142195/cc75eba4-7963-4776-8d5e-27bce73864e0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250226T135130Z&X-Amz-Expires=300&X-Amz-Signature=7d7690b55780f866c5044f333364ed9e81cb5f4ad9046fd53facb35add150274&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DESign_iPhone.Distribution.China.Continent.Property.Casualty.Insurance.Company.Ltd.ipa&response-content-type=application%2Foctet-stream</string>
+					<string>https://github.com/esigncert/khoindvn/releases/download/khoindvn/ESign_iPhone.Distribution.China.Continent.Property.Casualty.Insurance.Company.Ltd.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
