@@ -4,19 +4,19 @@ const texts = [
 
 const socials = [
     {
-        name: 'facebook Admin',
+        name: 'facebook',
         url: 'https://www.facebook.com/share/1XH7kThUjd/?mibextid=wwXIfr'
     },
     {
-        name: 'messenger Admin',
+        name: 'messenger',
         url: 'https://m.me/khoindvn.esigncert'
     },
     {
-        name: 'telegram Admin',
+        name: 'telegram',
         url: 'https://t.me/m/7P3IVuTSYTQ1'
     },
     {
-        name: 'zalo Admin',
+        name: 'zalo',
         url: 'https://zalo.me/0386495528'}
 ]
 const typingSpeed = 100; 
