@@ -64,7 +64,13 @@ const apps = [
 
 const esigns = [ 
     {
-        name: 'ESign Live ✅',
+        name: 'ESign New Cert ✅',
+        url: 'https://api.khoindvn.eu.org/gv9AmD',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Vietnam Electricity'   
+    },
+    {
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/LaXY9N',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Kotak Mahindra Bank Ltd'
