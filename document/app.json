@@ -1,0 +1,55 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://cert.khoindvn.io.vn/",
+  "patreonURL": "https://cert.khoindvn.io.vn/",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.mobile-softing.coinmaster2"
+  ],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
+  "apps": [
+    {
+      "name": "Coin Master Speed",
+      "bundleIdentifier": "com.mobile-softing.coinmaster2",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1bsgCVc.png",
+      "tintColor": "#ec5c64",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/esigncert/khoindvn/releases/download/khoi/Coin.Master.Speed.ipa",
+          "size": 90481623,
+          "version": "3.5.2010",
+          "buildVersion": "",
+          "date": "2025-03-29T02:42:00+07:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.xxx"
+        ],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCalendarsUsageDescription": "NSCalendarsUsageDescription",
+          "NSContactsUsageDescription": "We will use your contacts to help you find friends in the game",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We would like to access your location to provide you relevant push notifications based on your location",
+          "NSLocationWhenInUseUsageDescription": "We would like to access your location to provide you relevant push notifications based on your location",
+          "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription",
+          "NSUserTrackingUsageDescription": "This will help us optimize our in game content and create a better game experience for you"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
