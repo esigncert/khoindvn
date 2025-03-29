@@ -1,50 +1,22 @@
 {
-  "name": "My Example Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#6156e2",
-  "featuredApps": [],
-  "apps": [
-    {
-      "name": "Coin Master Speed",
-      "bundleIdentifier": "com.mobile-softing.coinmaster2",
-      "marketplaceID": "",
-      "developerName": "khơindvn",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/wsPgZig.png",
-      "tintColor": "#ec5c64",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
+    "name": "App IOS",
+    "identifier": "Cert.khoindvn.io.vn",
+    "sourceURL": "https://khoindvn.io.vn/document/App.json",
+    "apps": [
         {
-          "downloadURL": "https://github.com/esigncert/khoindvn/releases/download/khoi/Coin.Master.Speed.ipa",
-          "size": 95168757,
-          "version": "3.5.2010",
-          "buildVersion": "",
-          "date": "2025-03-29T02:30:00+07:00",
-          "localizedDescription": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+            "name": "Coin Master Speed",
+            "bundleIdentifier": "com.mobile-softing.coinmaster2",
+            "developerName": "khoindvn",
+            "version": "3.5.2010",
+            "versionDate": "2025-03-29T02:30:00+07:00",
+            "versionDescription": "Hack Speed",
+            "downloadURL": "https://github.com/esigncert/khoindvn/releases/download/khoi/Coin.Master.Speed.ipa",
+            "localizedDescription": "Hack Speed",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/c0/83/57c0839d-635e-193c-a3d4-cc2d867fc17b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCalendarsUsageDescription": "NSCalendarsUsageDescription",
-          "NSContactsUsageDescription": "We will use your contacts to help you find friends in the game",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "We would like to access your location to provide you relevant push notifications based on your location",
-          "NSLocationWhenInUseUsageDescription": "We would like to access your location to provide you relevant push notifications based on your location",
-          "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription",
-          "NSUserTrackingUsageDescription": "This will help us optimize our in game content and create a better game experience for you"
-        }
-      },
-      "patreon": {}
-    }
-  ],
-  "news": []
+    ]
 }
