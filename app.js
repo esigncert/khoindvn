@@ -44,13 +44,13 @@ const apps = [
     },
     {
         name: 'Spotify ✅',
-        url: 'https://sub4unlock.io/XoJKQ',
+        url: 'https://sub4unlock.io/Q5yK6',
         img: 'img/pf/spotify.png',
         descriptions: 'MOD Premium'
     },
     {
         name: 'Video Star Old ✅',
-        url: 'https://sub4unlock.io/qAym9',
+        url: 'https://sub4unlock.io/sSMPA',
         img: 'img/pf/video.png',
         descriptions: 'Mod Premium'
     },
