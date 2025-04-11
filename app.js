@@ -26,7 +26,7 @@ const apps = [
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://sub4unlock.io/8lBnK',
+        url: 'https://sub4unlock.io/Uxznv',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Support iOS 14.0-16.6.1 Cập Nhật Ngày 05/04/2025'
     },
