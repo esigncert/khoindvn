@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>map.aov.hdfc</string>
+				<string>com.game.hdfc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
