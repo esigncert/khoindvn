@@ -4,43 +4,43 @@ const apps = [
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
         url: 'https://sub4unlock.io/RglYL',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín 25/04/2025'
+        descriptions: 'Hack Map Đánh Kín 02/05/2025'
     },
     {
         name: '𝙆𝙚𝙮 𝙇𝙞𝙚̂𝙣 𝙌𝙪𝙖̂𝙣 𝘽𝙖̉𝙣 Hack Map',
         url: 'https://sub4unlock.io/BdFoS',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'cập nhật ngày 25/04/2025'
+        descriptions: 'cập nhật ngày 02/05/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
         url: 'https://sub4unlock.io/Q4aPV',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Cập Nhật Ngày 25/04/2025'
+        descriptions: 'Cập Nhật Ngày 02/05/2025'
     },
     {
         name: '𝙆𝙚𝙮 𝙇𝙞𝙚̂𝙣 𝙌𝙪𝙖̂𝙣 𝘽𝙖̉𝙣 Mod Skin',
         url: 'https://sub4unlock.io/VXr0g4ktDP',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'cập nhật ngày 25/04/2025'
+        descriptions: 'cập nhật ngày 02/05/2025'
     },
     {
         name: 'TrollStore X ✅',
         url: 'https://sub4unlock.io/P3Wdn',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Support iOS 14.0-16.6.1 Cập Nhật Ngày 25/04/2025'
+        descriptions: 'Support iOS 14.0-16.6.1 Cập Nhật Ngày 02/05/2025'
     },
     {
         name: 'Coin Master Speed✅',
         url: 'https://sub4unlock.io/5HtEa',
         img: 'img/pf/coin.png',
-        descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 25/04/2025'
+        descriptions: 'Link cài Trực tiếp '
     },
     {
         name: 'Locket Gold ✅',
         url: 'https://sub4unlock.io/h6fj5',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 25/04/2025'
+        descriptions: 'Link cài Trực tiếp'
     },
     {
         name: 'Spotify ✅',
@@ -58,7 +58,7 @@ const apps = [
         name: 'iPA Game Liên Quân',
         url: 'https://sub4unlock.io/UqreK',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 25/04/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 02/05/2025'
     },
 ]
 
