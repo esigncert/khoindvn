@@ -64,7 +64,13 @@ const apps = [
 
 const esigns = [ 
     {
-        name: 'ESign New Cert ✅',
+        name: 'KSign New Cert ✅',
+        url: 'https://api.khoindvn.eu.org/FGQ8Yb',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETTEL GROUP'   
+    },
+    {
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/SYKaO8',
         img: 'img/pf/profile-pic.png',
         descriptions: 'HDFC Bank Limited'   
