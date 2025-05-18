@@ -65,9 +65,16 @@ const apps = [
 const esigns = [ 
     {
         name: 'KSign New Cert ✅',
-        url: 'https://api.khoindvn.eu.org/FGQ8Yb',
+        url: 'https://api.khoindvn.eu.org/jm99yy',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
+    },
+    {
+        name: 'KSign ✅',
+        url: 'https://api.khoindvn.eu.org/FGQ8Yb',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETTEL GROUP 1'
+    
     },
     {
         name: 'ESign',
