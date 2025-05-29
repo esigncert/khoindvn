@@ -65,15 +65,27 @@ const apps = [
 const esigns = [ 
     {
         name: 'KSign New Cert ✅',
-        url: 'https://api.khoindvn.eu.org/jm99yy',
+        url: 'https://api.khoindvn.eu.org/87VrR4',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Vietnam Technological and Commercial Joint- stock Bank'   
+    },
+    ,{
+        name: 'KSign ✅',
+        url: 'https://api.khoindvn.eu.org/jvIbwS',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
-    {
-        name: 'KSign ✅',
-        url: 'https://api.khoindvn.eu.org/FGQ8Yb',
+    ,{
+        name: 'KSign V1 ✅',
+        url: 'https://api.khoindvn.eu.org/djQtgO',
         img: 'img/pf/ksign.png',
-        descriptions: 'VIETTEL GROUP 1'
+        descriptions: 'VIETTEL GROUP KSign V1'   
+    },
+    {
+        name: 'KSign V2 ✅',
+        url: 'https://api.khoindvn.eu.org/9qyWff',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETTEL GROUP KSign V2'
     
     },
     {
