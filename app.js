@@ -35,20 +35,7 @@ const apps = [
         url: 'https://sub4unlock.io/5HtEa',
         img: 'img/pf/coin.png',
         descriptions: 'Link cài Trực tiếp '
-    },
-    {
-        name: 'Locket Gold ✅',
-        url: 'https://sub4unlock.io/h6fj5',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/09/db/9509db84-c281-54e0-8f22-2201bdcdde1c/app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Link cài Trực tiếp'
-    },
-    {
-        name: 'Spotify ✅',
-        url: 'https://sub4unlock.io/s7cvz',
-        img: 'img/pf/spotify.png',
-        descriptions: 'MOD Premium'
-    },
-    {
+    },{
         name: 'Video Star Old ✅',
         url: 'https://sub4unlock.io/RkQbV',
         img: 'img/pf/video.png',
