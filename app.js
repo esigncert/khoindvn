@@ -14,9 +14,9 @@ const apps = [
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://sub4unlock.io/8xZ6X',
+        url: 'https://sub4unlock.io/GV0cM',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 12/06/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 14/06/2025'
     },
     {
         name: 'Coin Master Speed✅',
