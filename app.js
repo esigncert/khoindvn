@@ -39,37 +39,37 @@ const apps = [
 
 const esigns = [ 
   {
-        name: 'ESign ✅',
-        url: 'https://api.khoindvn.eu.org/qqlFXY',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'National Science Library,Chinese Academy  of Sciences'   
+        name: 'KSign ✅',
+        url: 'https://api.khoindvn.eu.org/LwV4zG',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION'   
     },
     {
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://api.khoindvn.eu.org/G2UAJs',
         img: 'img/pf/ksign.png',
         descriptions: 'National Science Library,Chinese Academy  of Sciences'   
     }, 
     {
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://api.khoindvn.eu.org/87VrR4',
         img: 'img/pf/ksign.png',
         descriptions: 'Vietnam Technological and Commercial Joint- stock Bank'   
     },
     ,{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://api.khoindvn.eu.org/jvIbwS',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     ,{
-        name: 'KSign V1 ✅',
+        name: 'KSign V1',
         url: 'https://api.khoindvn.eu.org/djQtgO',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP KSign V1'   
     },
     {
-        name: 'KSign V2 ✅',
+        name: 'KSign V2',
         url: 'https://api.khoindvn.eu.org/9qyWff',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP KSign V2'
