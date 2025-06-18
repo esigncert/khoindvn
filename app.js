@@ -38,8 +38,14 @@ const apps = [
 ]
 
 const esigns = [ 
-  {
+   {
         name: 'KSign ✅',
+        url: 'https://api.khoindvn.eu.org/7a8p95',
+        img: 'img/pf/ksign.png',
+        descriptions: 'EEO Education Ltd'   
+    }
+    ,{
+        name: 'KSign',
         url: 'https://api.khoindvn.eu.org/LwV4zG',
         img: 'img/pf/ksign.png',
         descriptions: 'CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION'   
