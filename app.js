@@ -38,8 +38,20 @@ const apps = [
 ]
 
 const esigns = [ 
-   {
+     {
+        name: 'ESign ✅',
+        url: 'https://api.khoindvn.eu.org/qqlFXY',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Wuling Power Corporation'   
+    }
+    ,{
         name: 'KSign ✅',
+        url: 'https://api.khoindvn.eu.org/yotTIY',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Wuling Power Corporation'   
+    }
+    ,{
+        name: 'KSign',
         url: 'https://api.khoindvn.eu.org/7a8p95',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'   
