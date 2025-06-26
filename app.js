@@ -47,7 +47,7 @@ const esigns = [
     ,{
         name: 'KSign ✅',
         url: 'https://tinyurl.com/yc6pjsjf',
-        img: 'img/pf/profile-pic.png',
+        img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co., LTD'   
     }
     ,{
