@@ -40,12 +40,24 @@ const apps = [
 const esigns = [ 
      {
         name: 'ESign ✅',
+        url: 'https://tinyurl.com/4fz7uajp',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'TCL household Appliance Marketing Co., LTD'   
+    }
+    ,{
+        name: 'KSign ✅',
+        url: 'https://tinyurl.com/yc6pjsjf',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'TCL household Appliance Marketing Co., LTD'   
+    }
+    ,{
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/qqlFXY',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Wuling Power Corporation'   
     }
     ,{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://api.khoindvn.eu.org/yotTIY',
         img: 'img/pf/ksign.png',
         descriptions: 'Wuling Power Corporation'   
