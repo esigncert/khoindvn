@@ -40,12 +40,24 @@ const apps = [
 const esigns = [ 
      {
         name: 'ESign ✅',
+        url: 'https://tinyurl.com/3fpdcf6b',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Dtt Technology Co.,Ltd.'   
+    }
+    ,{
+        name: 'KSign ✅',
+        url: 'https://tinyurl.com/3x87vnc9',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Dtt Technology Co.,Ltd.'   
+    }
+    ,{
+        name: 'ESign',
         url: 'https://tinyurl.com/4fz7uajp',
         img: 'img/pf/profile-pic.png',
         descriptions: 'TCL household Appliance Marketing Co., LTD'   
     }
     ,{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://tinyurl.com/yc6pjsjf',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co., LTD'   
