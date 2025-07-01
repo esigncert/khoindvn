@@ -40,6 +40,18 @@ const apps = [
 const esigns = [ 
     {
         name: 'ESign ✅',
+        url: 'https://tinyurl.com/y9j5ujv8',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
+    }
+    ,{
+        name: 'KSign ✅',
+        url: 'https://tinyurl.com/39tnn2kh',
+        img: 'img/pf/ksign.png',
+        descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
+    }
+    ,{
+        name: 'ESign ✅',
         url: 'https://tinyurl.com/6f6aesdw',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Railway Eryuan Engineering Group Co., Ltd.'   
