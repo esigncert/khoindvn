@@ -42,13 +42,13 @@ const esigns = [
         name: 'ESign ✅',
         url: 'https://tinyurl.com/6f6aesdw',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Dtt Technology Co.,Ltd.'   
+        descriptions: 'China Railway Eryuan Engineering Group Co., Ltd.'   
     }
     ,{
         name: 'KSign ✅',
         url: 'https://tinyurl.com/arf23bdd',
         img: 'img/pf/ksign.png',
-        descriptions: 'Dtt Technology Co.,Ltd.'   
+        descriptions: 'China Railway Eryuan Engineering Group Co., Ltd'   
     }
     ,{
         name: 'ESign',
