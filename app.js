@@ -38,14 +38,26 @@ const apps = [
 ]
 
 const esigns = [ 
-     {
+    {
         name: 'ESign ✅',
-        url: 'https://tinyurl.com/3fpdcf6b',
+        url: 'https://tinyurl.com/6f6aesdw',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Dtt Technology Co.,Ltd.'   
     }
     ,{
         name: 'KSign ✅',
+        url: 'https://tinyurl.com/arf23bdd',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Dtt Technology Co.,Ltd.'   
+    }
+    ,{
+        name: 'ESign',
+        url: 'https://tinyurl.com/3fpdcf6b',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Dtt Technology Co.,Ltd.'   
+    }
+    ,{
+        name: 'KSign',
         url: 'https://tinyurl.com/3x87vnc9',
         img: 'img/pf/ksign.png',
         descriptions: 'Dtt Technology Co.,Ltd.'   
