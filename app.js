@@ -40,24 +40,36 @@ const apps = [
 const esigns = [ 
     {
         name: 'ESign ✅',
+        url: 'https://tinyurl.com/3x96trkc',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Beijing Esensoft Co., Ltd'   
+    }
+    ,{
+        name: 'KSign ✅',
+        url: 'https://tinyurl.com/arf23bdd',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Beijing Esensoft Co., Ltd'   
+    }
+    ,{
+        name: 'ESign',
         url: 'https://tinyurl.com/y9j5ujv8',
         img: 'img/pf/profile-pic.png',
         descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
     }
     ,{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://tinyurl.com/39tnn2kh',
         img: 'img/pf/ksign.png',
         descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
     }
     ,{
-        name: 'ESign ✅',
+        name: 'ESign',
         url: 'https://tinyurl.com/6f6aesdw',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Railway Eryuan Engineering Group Co., Ltd.'   
     }
     ,{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://tinyurl.com/arf23bdd',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group Co., Ltd'   
