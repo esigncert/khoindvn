@@ -4,19 +4,19 @@ const apps = [
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
         url: 'https://sub4unlock.io/odBxt',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 25/06/2025'
+        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 05/07/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
         url: 'https://sub4unlock.io/YNMOe',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband cập nhật /06/2025'
+        descriptions: 'Bản Mod Skin Update antiband cập nhật 05/07/2025'
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://sub4unlock.io/vXxV9',
+        url: 'https://sub4unlock.io/rRxfL',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 24/06/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 05/07/2025'
     },
     {
         name: 'Coin Master Speed✅',
