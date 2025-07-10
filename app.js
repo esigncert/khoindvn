@@ -2,15 +2,15 @@
 const apps = [
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
-        url: 'https://sub4unlock.io/odBxt',
+        url: 'https://sub4unlock.io/7QcIe',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 05/07/2025'
+        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 10/07/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
-        url: 'https://sub4unlock.io/YNMOe',
+        url: 'https://sub4unlock.io/lmZ6r',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband cập nhật 05/07/2025'
+        descriptions: 'Bản Mod Skin Update antiband cập nhật 10/07/2025'
     },
     {
         name: 'TrollStore X ✅',
@@ -31,21 +31,21 @@ const apps = [
     },
     {
         name: 'File iPA Liên Quân',
-        url: 'https://sub4unlock.io/qSVDd',
+        url: 'https://sub4unlock.io/KUkgW',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 04/06/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 10/0707/2025'
     },
 ]
 
 const esigns = [ 
     {
-        name: 'ESign ✅',
+        name: 'ESign',
         url: 'https://tinyurl.com/3x96trkc',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Beijing Esensoft Co., Ltd'   
     }
     ,{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://tinyurl.com/324k5bp2',
         img: 'img/pf/ksign.png',
         descriptions: 'Beijing Esensoft Co., Ltd'   
