@@ -2,38 +2,27 @@
 const apps = [
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
-        url: 'https://sub4unlock.io/7QcIe',
+        url: 'https://sub4unlock.io/W4jdT',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 13/07/2025 fix lỗi chứnng chỉ'
+        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 14/07/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
-        url: 'https://sub4unlock.io/lmZ6r',
+        url: 'https://sub4unlock.io/1DOIi',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband cập nhật 13/07/2025 fix lỗi chứnng chỉ'
+        descriptions: 'Bản Mod Skin Update antiband cập nhật 14/07/2025 fix lỗi chứnng chỉ'
     },
     {
         name: 'TrollStore X ✅',
         url: 'https://sub4unlock.io/rRxfL',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 05/07/2025'
-    },
-    {
-        name: 'Coin Master Speed✅',
-        url: 'https://sub4unlock.io/5HtEa',
-        img: 'img/pf/coin.png',
-        descriptions: 'Link cài Trực tiếp '
-    },{
-        name: 'Video Star Old ✅',
-        url: 'https://sub4unlock.io/RkQbV',
-        img: 'img/pf/video.png',
-        descriptions: 'Mod Premium'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 14/07/2025'
     },
     {
         name: 'File iPA Liên Quân',
         url: 'https://sub4unlock.io/KUkgW',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 10/0707/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 14/07/2025'
     },
 ]
 
