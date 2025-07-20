@@ -30,81 +30,135 @@ const apps = [
 const ksignApps = [
     {
         name: 'KSign',
-        url: 'https://tinyurl.com/324k5bp2',
+        url: 'https://i.loadly.io/vQvSH91u',
         img: 'img/pf/ksign.png',
-        descriptions: 'Beijing Esensoft Co., Ltd'   
+        descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
+    },
+    {
+        name: 'KSign VNJ V1',
+        url: 'https://i.loadly.io/YW8HSTgM',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
+    },
+    {
+        name: 'KSign VNJ V2',
+        url: 'https://i.loadly.io/LiQXptmW',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
+    },
+    {
+        name: 'KSign VNJ V3',
+        url: 'https://i.loadly.io/TADbykHo',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
+    },
+    {
+        name: 'KSign VNJ V4',
+        url: 'https://i.loadly.io/UZO7qsci',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign',
-        url: 'https://tinyurl.com/39tnn2kh',
-        img: 'img/pf/ksign.png',
-        descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://tinyurl.com/arf23bdd',
-        img: 'img/pf/ksign.png',
-        descriptions: 'China Railway Eryuan Engineering Group Co., Ltd'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://tinyurl.com/3x87vnc9',
-        img: 'img/pf/ksign.png',
-        descriptions: 'Dtt Technology Co.,Ltd.'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://tinyurl.com/yc6pjsjf',
-        img: 'img/pf/ksign.png',
-        descriptions: 'TCL household Appliance Marketing Co., LTD'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://api.khoindvn.eu.org/yotTIY',
-        img: 'img/pf/ksign.png',
-        descriptions: 'Wuling Power Corporation'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://api.khoindvn.eu.org/7a8p95',
-        img: 'img/pf/ksign.png',
-        descriptions: 'EEO Education Ltd'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://api.khoindvn.eu.org/LwV4zG',
-        img: 'img/pf/ksign.png',
-        descriptions: 'CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://api.khoindvn.eu.org/G2UAJs',
-        img: 'img/pf/ksign.png',
-        descriptions: 'National Science Library,Chinese Academy  of Sciences'   
-    }, 
-    {
-        name: 'KSign',
-        url: 'https://api.khoindvn.eu.org/87VrR4',
-        img: 'img/pf/ksign.png',
-        descriptions: 'Vietnam Technological and Commercial Joint- stock Bank'   
-    },
-    {
-        name: 'KSign',
-        url: 'https://api.khoindvn.eu.org/jvIbwS',
+        url: 'https://i.loadly.io/pJE8Gd6X',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
-        name: 'KSign V1',
-        url: 'https://api.khoindvn.eu.org/djQtgO',
+        name: 'KSign VIETTEL GROUP V1',
+        url: 'https://i.loadly.io/YqfVTduO',
         img: 'img/pf/ksign.png',
-        descriptions: 'VIETTEL GROUP KSign V1'   
+        descriptions: 'VIETTEL GROUP'   
     },
     {
-        name: 'KSign V2',
-        url: 'https://api.khoindvn.eu.org/9qyWff',
+        name: 'KSign VIETTEL GROUP V2',
+        url: 'https://i.loadly.io/XYvyFUF5',
         img: 'img/pf/ksign.png',
-        descriptions: 'VIETTEL GROUP KSign V2'
+        descriptions: 'VIETTEL GROUP'   
+    },
+    {
+        name: 'KSign VIETTEL GROUP V3',
+        url: 'https://i.loadly.io/yOvQTfs8',
+        img: 'img/pf/ksign.png',
+        descriptions: 'VIETTEL GROUP'   
+    }, 
+    {
+        name: 'KSign',
+        url: 'https://i.loadly.io/ubn8wwZY',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TCL household Appliance Marketing Co'   
+    },
+    {
+        name: 'KSign TCL V1',
+        url: 'https://i.loadly.io/nWsaaiiL',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TCL household Appliance Marketing Co'   
+    },
+    {
+        name: 'KSign TCL V2',
+        url: 'https://i.loadly.io/6i1ZZSji',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TCL household Appliance Marketing Co'   
+    },
+    {
+        name: 'KSign TCL V3',
+        url: 'https://i.loadly.io/nhMdwJJX',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TCL household Appliance Marketing Co'
+    },
+    {
+        name: 'KSign',
+        url: 'https://i.loadly.io/dbEiV4Fr',
+        img: 'img/pf/ksign.png',
+        descriptions: 'GAC TOYOTA MOTOR CO'
+    },
+    {
+        name: 'KSign GAC V1',
+        url: 'https://i.loadly.io/9TnVohcF',
+        img: 'img/pf/ksign.png',
+        descriptions: 'GAC TOYOTA MOTOR CO'
+    },
+    {
+        name: 'KSign GAC V2',
+        url: 'https://i.loadly.io/ZHFbgrf3',
+        img: 'img/pf/ksign.png',
+        descriptions: 'GAC TOYOTA MOTOR CO'
+    },
+    {
+        name: 'KSign GAC V3',
+        url: 'https://i.loadly.io/qP7wRRqS',
+        img: 'img/pf/ksign.png',
+        descriptions: 'GAC TOYOTA MOTOR CO'
+    },
+    {
+        name: 'KSign',
+        url: 'https://i.loadly.io/WoTRbYH7',
+        img: 'img/pf/ksign.png',
+        descriptions: 'EEO Education Ltd'
+    },
+    {
+        name: 'KSign EEO V1',
+        url: 'https://i.loadly.io/vu7OjCg1',
+        img: 'img/pf/ksign.png',
+        descriptions: 'EEO Education Ltd'
+    },
+    {
+        name: 'KSign',
+        url: 'https://i.loadly.io/SpCyGaYM',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China Railway Eryuan Engineering Group'
+    },
+    {
+        name: 'KSign China Railway V1',
+        url: 'https://i.loadly.io/EArBL5WZ',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China Railway Eryuan Engineering Group'
+    },
+    {
+        name: 'KSign',
+        url: 'https://i.loadly.io/3psivxUU',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Beijing Esensoft Co'
     }
 ];
 
