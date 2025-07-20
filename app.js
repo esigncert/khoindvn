@@ -81,7 +81,43 @@ const ksignApps = [
         url: 'https://i.loadly.io/yOvQTfs8',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
-    }, 
+    },
+    {
+        name: 'KSign',
+        url: 'https://i.loadly.io/6kFySVCG',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
+    {
+        name: 'KSign Chiba V1',
+        url: 'https://i.loadly.io/zUyCT3H8',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
+    {
+        name: 'KSign Chiaba V2',
+        url: 'https://i.loadly.io/kSkjPMhv',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
+    {
+        name: 'KSign Chiaba V3',
+        url: 'https://i.loadly.io/NRkK7p17',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
+    {
+        name: 'KSign Chiba V4',
+        url: 'https://i.loadly.io/gb2XXQOu',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
+    {
+        name: 'KSign Chiba V5',
+        url: 'https://i.loadly.io/Mp7femdt',
+        img: 'img/pf/ksign.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
     {
         name: 'KSign',
         url: 'https://i.loadly.io/ubn8wwZY',
