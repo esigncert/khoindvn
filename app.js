@@ -111,88 +111,63 @@ const ksignApps = [
 const esignApps = [
     {
         name: 'ESign',
-        url: 'https://tinyurl.com/3x96trkc',
+        url: 'https://i.loadly.io/vnjes8ios',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
+    },{
+        name: 'ESign',
+        url: 'https://i.loadly.io/sCxKfNji',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'VIETTEL GROUP'   
+    },
+    {
+        name: 'ESign',
+        url: 'https://i.loadly.io/NRqDTAah',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
+    },
+    {
+        name: 'ESign',
+        url: 'https://i.loadly.io/8FnyqEjs',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Beijing Esensoft Co., Ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://tinyurl.com/y9j5ujv8',
+        url: 'https://i.loadly.io/ZQgRwTtA',
         img: 'img/pf/profile-pic.png',
         descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
     },
     {
         name: 'ESign',
-        url: 'https://tinyurl.com/6f6aesdw',
+        url: 'https://i.loadly.io/TM5Ye1O1',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Railway Eryuan Engineering Group Co., Ltd.'   
     },
     {
         name: 'ESign',
-        url: 'https://tinyurl.com/3fpdcf6b',
+        url: 'https://i.loadly.io/Rod6cWdW',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'Dtt Technology Co.,Ltd.'   
+        descriptions: 'EEO Education ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://tinyurl.com/4fz7uajp',
+        url: 'https://i.loadly.io/pokXH5G4',
         img: 'img/pf/profile-pic.png',
         descriptions: 'TCL household Appliance Marketing Co., LTD'   
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/qqlFXY',
+        url: 'https://i.loadly.io/zBXxhRoc',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Wuling Power Corporation'   
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/SYKaO8',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'HDFC Bank Limited'   
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/q26Etj',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Vietnam Electricity'   
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/6BFC8C',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Kotak Mahindra Bank Ltd'
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/y8PvzI',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'China Continent Property & Casualty Insurance Company Ltd'
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/XYymqT',
+        url: 'https://i.loadly.io/55ZWv8OZ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'GAC TOYOTA MOTOR CO.,LTD'
-    },
-    {
-        name: 'ESign Sunshine',
-        url: 'https://api.khoindvn.eu.org/1QbTEI',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Sunshine'
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/qIELXJ',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Sunshine 1'
-    },
-    {
-        name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/o523rG',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'Sunshin 2'
-    }
+    
 ];
 
 // UI COMPONENTS
