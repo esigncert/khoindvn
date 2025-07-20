@@ -167,6 +167,7 @@ const esignApps = [
         url: 'https://i.loadly.io/55ZWv8OZ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'GAC TOYOTA MOTOR CO.,LTD'
+    }
     
 ];
 
