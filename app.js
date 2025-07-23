@@ -46,6 +46,12 @@ const ksignApps = [
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
     {
+        name: 'KSign BMW V1 ✅',
+        url: 'https://i.loadly.io/dKaQsrKZ',
+        img: 'img/pf/ksign.png',
+        descriptions: 'BMW Brilliance Automotive Ltd'   
+    },
+    {
         name: 'KSign',
         url: 'https://i.loadly.io/vQvSH91u',
         img: 'img/pf/ksign.png',
@@ -218,7 +224,7 @@ const ksignApps = [
 const esignApps = [
      {
         name: 'ESign ✅',
-        url: 'https://loadly.io/sCxKfNji',
+        url: 'https://i.loadly.io/KDxT6fCO',
         img: 'img/pf/profile-pic.png',
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
