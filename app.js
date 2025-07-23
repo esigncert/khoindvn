@@ -20,6 +20,17 @@ const apps = [
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 23/07/2025'
     },
     {
+        name: 'Krnl VN ✅',
+        url: 'https://sub4unlock.io/ZLiEY',
+        img: 'https://loadly.io/image/view/app_icons/7a9fc85a1a0219b1bd1d1bc2af25b2de/120',
+        descriptions: 'Mod Roblox Cre Huymythic Cập Nhật 23/07/2025'
+    },
+    {
+        name: 'DeltaVN ✅',
+        url: 'https://yeumoney.com/8wAlpk4z',
+        img: 'https://loadly.io/image/view/app_icons/7a9fc85a1a0219b1bd1d1bc2af25b2de/120',
+        descriptions: 'Mod Roblox Cre Huymythic Cập Nhật 23/07/2025'
+    },{
         name: 'File iPA Liên Quân',
         url: 'https://sub4unlock.io/KUkgW',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
