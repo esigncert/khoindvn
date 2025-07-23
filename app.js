@@ -28,6 +28,12 @@ const apps = [
 ];
 
 const ksignApps = [
+   {
+        name: 'KSign ✅',
+        url: 'https://i.loadly.io/57jdwiXt',
+        img: 'img/pf/ksign.png',
+        descriptions: 'BMW Brilliance Automotive Ltd'   
+    },
     {
         name: 'KSign',
         url: 'https://i.loadly.io/vQvSH91u',
@@ -199,12 +205,19 @@ const ksignApps = [
 ];
 
 const esignApps = [
+     {
+        name: 'ESign ✅',
+        url: 'https://loadly.io/sCxKfNji',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'BMW Brilliance Automotive Ltd'   
+    },
     {
         name: 'ESign',
         url: 'https://i.loadly.io/vnjes8ios',
         img: 'img/pf/profile-pic.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
-    },{
+    },
+    {
         name: 'ESign',
         url: 'https://i.loadly.io/sCxKfNji',
         img: 'img/pf/profile-pic.png',
