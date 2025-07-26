@@ -224,67 +224,67 @@ const ksignApps = [
 const esignApps = [
      {
         name: 'ESign ✅',
-        url: 'https://i.loadly.io/KDxT6fCO',
+        url: 'https://loadly.io/KDxT6fCO',
         img: 'img/pf/profile-pic.png',
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/vnjes8ios',
+        url: 'https://loadly.io/vnjes8ios',
         img: 'img/pf/profile-pic.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/sCxKfNji',
+        url: 'https://loadly.io/sCxKfNji',
         img: 'img/pf/profile-pic.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/NRqDTAah',
+        url: 'https://loadly.io/NRqDTAah',
         img: 'img/pf/profile-pic.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/8FnyqEjs',
+        url: 'https://loadly.io/8FnyqEjs',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Beijing Esensoft Co., Ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/ZQgRwTtA',
+        url: 'https://loadly.io/ZQgRwTtA',
         img: 'img/pf/profile-pic.png',
         descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/TM5Ye1O1',
+        url: 'https://loadly.io/TM5Ye1O1',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Railway Eryuan Engineering Group Co., Ltd.'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/Rod6cWdW',
+        url: 'https://loadly.io/Rod6cWdW',
         img: 'img/pf/profile-pic.png',
         descriptions: 'EEO Education ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/pokXH5G4',
+        url: 'https://loadly.io/pokXH5G4',
         img: 'img/pf/profile-pic.png',
         descriptions: 'TCL household Appliance Marketing Co., LTD'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/zBXxhRoc',
+        url: 'https://loadly.io/zBXxhRoc',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Wuling Power Corporation'   
     },
     {
         name: 'ESign',
-        url: 'https://i.loadly.io/55ZWv8OZ',
+        url: 'https://loadly.io/55ZWv8OZ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'GAC TOYOTA MOTOR CO.,LTD'
     }
