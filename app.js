@@ -41,181 +41,181 @@ const apps = [
 const ksignApps = [
    {
         name: 'KSign ✅',
-        url: 'https://i.loadly.io/57jdwiXt',
+        url: 'https://loadly.io/57jdwiXt',
         img: 'img/pf/ksign.png',
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
     {
         name: 'KSign BMW V1 ✅',
-        url: 'https://i.loadly.io/dKaQsrKZ',
+        url: 'https://loadly.io/dKaQsrKZ',
         img: 'img/pf/ksign.png',
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/vQvSH91u',
+        url: 'https://loadly.io/vQvSH91u',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V1',
-        url: 'https://i.loadly.io/YW8HSTgM',
+        url: 'https://loadly.io/YW8HSTgM',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V2',
-        url: 'https://i.loadly.io/LiQXptmW',
+        url: 'https://loadly.io/LiQXptmW',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V3',
-        url: 'https://i.loadly.io/TADbykHo',
+        url: 'https://loadly.io/TADbykHo',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V4',
-        url: 'https://i.loadly.io/UZO7qsci',
+        url: 'https://loadly.io/UZO7qsci',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/pJE8Gd6X',
+        url: 'https://loadly.io/pJE8Gd6X',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign VIETTEL GROUP V1',
-        url: 'https://i.loadly.io/YqfVTduO',
+        url: 'https://loadly.io/YqfVTduO',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign VIETTEL GROUP V2',
-        url: 'https://i.loadly.io/XYvyFUF5',
+        url: 'https://loadly.io/XYvyFUF5',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign VIETTEL GROUP V3',
-        url: 'https://i.loadly.io/yOvQTfs8',
+        url: 'https://loadly.io/yOvQTfs8',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/6kFySVCG',
+        url: 'https://loadly.io/6kFySVCG',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V1',
-        url: 'https://i.loadly.io/zUyCT3H8',
+        url: 'https://loadly.io/zUyCT3H8',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiaba V2',
-        url: 'https://i.loadly.io/kSkjPMhv',
+        url: 'https://loadly.io/kSkjPMhv',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiaba V3',
-        url: 'https://i.loadly.io/NRkK7p17',
+        url: 'https://loadly.io/NRkK7p17',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V4',
-        url: 'https://i.loadly.io/gb2XXQOu',
+        url: 'https://loadly.io/gb2XXQOu',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V5',
-        url: 'https://i.loadly.io/Mp7femdt',
+        url: 'https://loadly.io/Mp7femdt',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/ubn8wwZY',
+        url: 'https://loadly.io/ubn8wwZY',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V1',
-        url: 'https://i.loadly.io/nWsaaiiL',
+        url: 'https://loadly.io/nWsaaiiL',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V2',
-        url: 'https://i.loadly.io/6i1ZZSji',
+        url: 'https://loadly.io/6i1ZZSji',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V3',
-        url: 'https://i.loadly.io/nhMdwJJX',
+        url: 'https://loadly.io/nhMdwJJX',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/dbEiV4Fr',
+        url: 'https://loadly.io/dbEiV4Fr',
         img: 'img/pf/ksign.png',
         descriptions: 'GAC TOYOTA MOTOR CO'
     },
     {
         name: 'KSign GAC V1',
-        url: 'https://i.loadly.io/9TnVohcF',
+        url: 'https://loadly.io/9TnVohcF',
         img: 'img/pf/ksign.png',
         descriptions: 'GAC TOYOTA MOTOR CO'
     },
     {
         name: 'KSign GAC V2',
-        url: 'https://i.loadly.io/ZHFbgrf3',
+        url: 'https://loadly.io/ZHFbgrf3',
         img: 'img/pf/ksign.png',
         descriptions: 'GAC TOYOTA MOTOR CO'
     },
     {
         name: 'KSign GAC V3',
-        url: 'https://i.loadly.io/qP7wRRqS',
+        url: 'https://loadly.io/qP7wRRqS',
         img: 'img/pf/ksign.png',
         descriptions: 'GAC TOYOTA MOTOR CO'
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/WoTRbYH7',
+        url: 'https://loadly.io/WoTRbYH7',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'
     },
     {
         name: 'KSign EEO V1',
-        url: 'https://i.loadly.io/vu7OjCg1',
+        url: 'https://loadly.io/vu7OjCg1',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/SpCyGaYM',
+        url: 'https://loadly.io/SpCyGaYM',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group'
     },
     {
         name: 'KSign China Railway V1',
-        url: 'https://i.loadly.io/EArBL5WZ',
+        url: 'https://loadly.io/EArBL5WZ',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group'
     },
     {
         name: 'KSign',
-        url: 'https://i.loadly.io/3psivxUU',
+        url: 'https://loadly.io/3psivxUU',
         img: 'img/pf/ksign.png',
         descriptions: 'Beijing Esensoft Co'
     }
