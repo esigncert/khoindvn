@@ -5,36 +5,36 @@ const apps = [
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
         url: 'https://sub4unlock.io/F6bRS',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 1/8/2025 fix văng game'
+        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật 11/8/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
         url: 'https://sub4unlock.io/u6SVW',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband cập nhật 1/8/2025 fix văng game'
+        descriptions: 'Bản Mod Skin Update antiband cập nhật 11/8/2025'
     },
     {
         name: 'TrollStore X ✅',
         url: 'https://sub4unlock.io/rRxfL',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 1/8/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật 11/8/2025'
     },
     {
         name: 'Krnl VN ✅',
         url: 'https://sub4unlock.io/ZLiEY',
         img: 'https://loadly.io/image/view/app_icons/7a9fc85a1a0219b1bd1d1bc2af25b2de/120',
-        descriptions: 'Mod Roblox Cre Huymythic Cập Nhật 1/8/2025'
+        descriptions: 'Mod Roblox Cre Huymythic Cập Nhật 11/8/2025'
     },
     {
         name: 'DeltaVN ✅',
         url: 'https://yeumoney.com/8wAlpk4z',
         img: 'https://loadly.io/image/view/app_icons/7a9fc85a1a0219b1bd1d1bc2af25b2de/120',
-        descriptions: 'Mod Roblox Cre Huymythic Cập Nhật 1/8/2025'
+        descriptions: 'Mod Roblox Cre Huymythic Cập Nhật 11/8/2025'
     },{
         name: 'File iPA Liên Quân',
         url: 'https://sub4unlock.io/KUkgW',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 1/8/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 11/8/2025'
     },
 ];
 
