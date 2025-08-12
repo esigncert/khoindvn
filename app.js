@@ -39,7 +39,13 @@ const apps = [
 ];
 
 const ksignApps = [
-   {
+    {
+        name: 'KSign ✅',
+        url: 'https://loadly.io/07DJmaef',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Tianjin University of Commerce'   
+    },
+    {
         name: 'KSign',
         url: 'https://loadly.io/57jdwiXt',
         img: 'img/pf/ksign.png',
