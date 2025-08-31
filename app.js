@@ -3,15 +3,15 @@
 const apps = [
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
-        url: 'https://sub4unlock.io/6Wujc',
+        url: 'https://sub4unlock.io/kRPnO',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband fix 1 game band Cập Nhật 16/8/2025'
+        descriptions: 'Hack Map Đánh Kín Update antiband fix 1 game band Cập Nhật 31/8/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
-        url: 'https://sub4unlock.io/78mpX',
+        url: 'https://sub4unlock.io/LJnip',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband fix 1 game band cập nhật 16/8/2025'
+        descriptions: 'Bản Mod Skin Update antiband fix 1 game band cập nhật 31/8/2025'
     },
     {
         name: 'TrollStore X ✅',
@@ -34,7 +34,7 @@ const apps = [
         name: 'File iPA Liên Quân',
         url: 'https://sub4unlock.io/vRUnk',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 16/8/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 31/8/2025'
     },
 ];
 
