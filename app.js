@@ -17,7 +17,7 @@ const apps = [
         name: 'TrollStore X ✅',
         url: 'https://sub4unlock.io/rCHxp',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 19/9/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 21/9/2025'
     },
     {
         name: 'Krnl VN ✅',
