@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://app-storage.loadly.io/0674838158af86a012c44aa247da8d8a.ipa?response-content-disposition=attachment%3Bfilename%3DKrnl_VN_2.690.721.ipa&amp;OSSAccessKeyId=LTAI5tD9VGBdAd8jw9mLHRV8&amp;Expires=1758495473&amp;Signature=2Z9PRB%2FZBycnT%2F1fkH6VPYYoiZE%3D</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://loadly.io/image/view/app_icons/3a45129877e8622af525bc862f1f6f5e/120</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://loadly.io/image/view/app_icons/3a45129877e8622af525bc862f1f6f5e/120</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.rbl.krnlvn</string>
+                <key>bundle-version</key>
+                <string>2.690.721</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>Krnl VN</string>
+                <key>title</key>
+                <string>Krnl VN</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
