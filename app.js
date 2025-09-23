@@ -40,6 +40,26 @@ const apps = [
 
 const ksignApps = [
     {
+        name: 'KSign V3 China ✅',
+        url: 'https://loadly.io/6dFQMxip',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China Telecommunications Corporation'   
+    },{
+        name: 'KSign V2 China ✅',
+        url: 'https://loadly.io/bfRwXm8B',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China Telecommunications Corporation'   
+    },{
+        name: 'KSign V1 China ✅',
+        url: 'https://loadly.io/rFb2pKw8',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China Telecommunications Corporation'   
+    },{
+        name: 'KSign ✅',
+        url: 'https://loadly.io/AOk7uhFE',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China Telecommunications Corporation'   
+    },{
         name: 'KSign GOBAL V7',
         url: 'https://loadly.io/RhGmivnV',
         img: 'img/pf/ksign.png',
@@ -270,7 +290,7 @@ const ksignApps = [
 
 const esignApps = [
    {
-        name: 'ESign ✅',
+        name: 'ESign',
         url: 'https://loadly.io/PGwC04B6',
         img: 'img/pf/profile-pic.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
