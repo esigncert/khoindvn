@@ -17,19 +17,19 @@ const apps = [
         name: 'TrollStore X ✅',
         url: 'https://sub4unlock.io/mgEGi',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 22/9/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 26/9/2025'
     },
     {
         name: 'Krnl VN ✅',
         url: 'https://sub4unlock.io/JWmKw',
         img: 'https://loadly.io/image/view/app_icons/7a9fc85a1a0219b1bd1d1bc2af25b2de/120',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 22/9/2025'
+        descriptions: 'Mod Roblox Cập Nhật Ngày 26/9/2025'
     },
     {
         name: 'DeltaVN ✅',
         url: 'https://sub4unlock.io/t1riF',
         img: 'https://loadly.io/image/view/app_icons/7a9fc85a1a0219b1bd1d1bc2af25b2de/120',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 22/9/2025'
+        descriptions: 'Mod Roblox Cập Nhật Ngày 26/9/2025'
     },{
         name: 'File iPA Liên Quân',
         url: 'https://sub4unlock.io/vRUnk',
