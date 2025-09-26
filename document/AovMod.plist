@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eueu.littlera.in/f9e2302e-f997-451b-b134-6bbfe26c5ee2/0.ipa</string>
+                    <string>https://eueu.littlera.in/0b988b79-ee24-4cfa-b22c-6d8913389937/0.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.lqmb.app1</string>
+                <string>com.garena.game.kgvn1</string>
                 <key>bundle-version</key>
-                <string>1.59.11452649</string>
+                <string>1.59.11473647</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
