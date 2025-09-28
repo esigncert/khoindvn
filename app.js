@@ -3,41 +3,41 @@
 const apps = [
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
-        url: 'https://sub4unlock.io/DM4gG',
+        url: 'https://sub.khoindvn.io.vn/aovcheat.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật Ngày 26/09/2025'
     },
     {
         name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
-        url: 'https://sub4unlock.io/LXVIM',
+        url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Bản Mod Skin Update antiband cập nhật Ngày 26/09/2025'
     },
     {
         name: 'TrollStore X ✅',
-        url: 'https://sub4unlock.io/mgEGi',
+        url: 'https://sub.khoindvn.io.vn/trollst.html',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 26/09/2025'
     },
     {
         name: 'Krnl VN ✅',
-        url: 'https://sub4unlock.io/JWmKw',
+        url: 'https://sub.khoindvn.io.vn/krnl.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
         descriptions: 'Mod Roblox Cập Nhật Ngày 26/09/2025'
     },
     {
         name: 'DeltaVN ✅',
-        url: 'https://sub4unlock.io/t1riF',
+        url: 'https://sub.khoindvn.io.vn/delta.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
         descriptions: 'Mod Roblox Cập Nhật Ngày 26/9/2025'
     },{
         name: 'File iPA Liên Quân',
-        url: 'https://sub4unlock.io/lsXNh',
+        url: 'https://sub.khoindvn.io.vn/ipalq.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 26/09/2025'
     },{
         name: 'File iPA Roblox',
-        url: 'https://sub4unlock.io/OTz58',
+        url: 'https://sub.khoindvn.io.vn/iparbl.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
         descriptions: 'Gồm file 2 iPA Krnl VN Và Delta VN Cập Nhật Ngày 26/09/2025'
     },
