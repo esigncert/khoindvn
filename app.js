@@ -2,16 +2,16 @@
 
 const apps = [
     {
-        name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Hack Map ✅ ',
+        name: 'AovCheat Map Sáng ✅ ',
         url: 'https://sub.khoindvn.io.vn/aovcheat.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Đánh Kín Update antiband Cập Nhật Ngày 26/09/2025'
+        descriptions: 'Map Sáng Đánh Kín Update antiband Cập Nhật Ngày 26/09/2025'
     },
     {
-        name: '𝐋𝐢𝐞̂𝐧 𝐐𝐮𝐚̂𝐧 𝐌𝐨𝐛𝐢𝐥𝐞 Mod Skin ✅',
+        name: 'AovMod Mod Skin ✅',
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Bản Mod Skin Update antiband cập nhật Ngày 26/09/2025'
+        descriptions: 'Mod Skin Update antiband cập nhật Ngày 26/09/2025'
     },
     {
         name: 'TrollStore X ✅',
@@ -31,7 +31,7 @@ const apps = [
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
         descriptions: 'Mod Roblox Cập Nhật Ngày 26/9/2025'
     },{
-        name: 'File iPA Liên Quân',
+        name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalq.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 26/09/2025'
@@ -45,22 +45,22 @@ const apps = [
 
 const ksignApps = [
     {
-        name: 'KSign V3 China ✅',
+        name: 'KSign V3 China',
         url: 'https://loadly.io/6dFQMxip',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign V2 China ✅',
+        name: 'KSign V2 China',
         url: 'https://loadly.io/bfRwXm8B',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign V1 China ✅',
+        name: 'KSign V1 China',
         url: 'https://loadly.io/rFb2pKw8',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://loadly.io/AOk7uhFE',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
