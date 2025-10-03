@@ -61,7 +61,7 @@
                 <br />
                 <br />
                 <p>𝗡𝗲̂́𝘂 𝗕𝗮̣𝗻 𝗠𝘂𝗼̂́𝗻 𝗖𝗼́ 𝗡𝗵𝘂 𝗖𝗮̂̀𝘂 𝗠𝘂𝗮 𝗖𝗵𝘂̛́𝗻𝗴 𝗖𝗵𝗶̉
-                    𝗘𝘀𝗶𝗴𝗻-𝗦𝗰𝗮𝗿𝗹𝗲𝘁 𝗩𝗼̛́𝗶 𝗚𝗶𝗮́ 𝟱𝟬𝗸 𝗧𝗵𝐢̀ 𝐇𝐚̃𝐲 𝐓𝐫𝐮𝐲 𝐂𝐚̣̂𝐩 𝐓𝐫𝐚𝐧𝐠
+                    𝗘𝘀𝗶𝗴𝗻-𝗦𝗰𝗮𝗿𝗹𝗲𝘁 𝗩𝗼̛́𝗶 𝗚𝗶𝗮́ 100k 𝗧𝗵𝐢̀ 𝐇𝐚̃𝐲 𝐓𝐫𝐮𝐲 𝐂𝐚̣̂𝐩 𝐓𝐫𝐚𝐧𝐠
                     𝐖𝐞𝐛 : 𝐜𝐞𝐫𝐭.𝐤𝐡𝐨𝐢𝐧𝐝𝐯𝐧.𝐢𝐨.𝐯𝐧</p>
                 <div class="social-buttons"></div>
             </div>
@@ -71,7 +71,7 @@
             <div class="prj-collum">
                 <h2> </h2>
                 <div class="project">
-                    <h3>Website Bán Chứng Chỉ Tự Động Giá 50k</h3>
+                    <h3>Website Bán Chứng Chỉ Tự Động Giá 100k</h3>
                     <a href="https://cert.khoindvn.io.vn" target="_blank"><img alt=""
                             src="./img/icons/redirect.png" /></a>
                 </div>
@@ -174,5 +174,23 @@
 <!-- SOCIAL BAR -->
 <script type='text/javascript' src='//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js'></script>
 
+<!-- Audio PLay -->
+<audio id="bg-music" hidden>
+  <source src="https://files.catbox.moe/p7ufvu.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var audio = document.getElementById("bg-music");
+  // Thử phát ngay khi load trang
+  audio.play().catch(function() {
+    // Nếu bị chặn thì phát ngay khi user click/chạm lần đầu
+    document.body.addEventListener("click", function() {
+      audio.play();
+    }, { once: true });
+  });
+});
+</script>
+    
 </body>
 </html>
