@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eueu.littlera.in/1c35ab1a-0bb8-4cfc-ac12-690ee413b116/0.ipa</string>
+                    <string>https://github.com/trinhtruongphong-bot/telegram-local-bot/releases/download/ipa/Krnl.VN.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -35,7 +35,7 @@
                 <key>bundle-identifier</key>
                 <string>com.khoindvn.io.vn</string>
                 <key>bundle-version</key>
-                <string>2.690.721</string>
+                <string>2.690.722</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
