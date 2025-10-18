@@ -254,81 +254,80 @@ const ksignApps = [
 const esignApps = [
    {
         name: 'ESign',
-        url: 'https://loadly.io/PGwC04B6',
+        url: 'https://api.khoindvn.io.vn/KsIIga',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'China Telecommunications Corporation'   
+    },{
+        name: 'ESign',
+        url: 'https://api.khoindvn.io.vn/eJcHbQ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },
     {
-        name: 'ESign ',
-        url: 'https://loadly.io/g0FwZsy3',
+        name: 'ESign',
+        url: 'https://api.khoindvn.io.vn/aPUBAa',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Tianjin University of Commerce'   
     },
     {
-        name: 'ESign ',
-        url: 'https://loadly.io/KDxT6fCO',
-        img: 'img/pf/profile-pic.png',
-        descriptions: 'BMW Brilliance Automotive Ltd'   
-    },
-    {
         name: 'ESign',
-        url: 'https://loadly.io/vnjes8ios',
+        url: 'https://api.khoindvn.io.vn/bmHiwZ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/sCxKfNji',
+        url: 'https://api.khoindvn.io.vn/FKo9w0',
         img: 'img/pf/profile-pic.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/NRqDTAah',
+        url: 'https://api.khoindvn.io.vn/k4vcGw',
         img: 'img/pf/profile-pic.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/8FnyqEjs',
+        url: 'https://api.khoindvn.io.vn/cRN571',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Beijing Esensoft Co., Ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/ZQgRwTtA',
+        url: 'https://api.khoindvn.io.vn/kbQ6yh',
         img: 'img/pf/profile-pic.png',
         descriptions: 'NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/TM5Ye1O1',
+        url: 'https://api.khoindvn.io.vn/kVrXvj',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China Railway Eryuan Engineering Group Co., Ltd.'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/Rod6cWdW',
+        url: 'https://api.khoindvn.io.vn/AaINm5',
         img: 'img/pf/profile-pic.png',
         descriptions: 'EEO Education ltd'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/pokXH5G4',
+        url: 'https://api.khoindvn.io.vn/tJ2gAc',
         img: 'img/pf/profile-pic.png',
         descriptions: 'TCL household Appliance Marketing Co., LTD'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/zBXxhRoc',
+        url: 'https://api.khoindvn.io.vn/1OQZbg',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Wuling Power Corporation'   
     },
     {
         name: 'ESign',
-        url: 'https://loadly.io/55ZWv8OZ',
+        url: 'https://api.khoindvn.io.vn/L3DKkN',
         img: 'img/pf/profile-pic.png',
-        descriptions: 'GAC TOYOTA MOTOR CO.,LTD'
+        descriptions: 'HDFC Bank Limited'
     }
     
 ];
