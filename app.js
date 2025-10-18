@@ -46,248 +46,206 @@ const apps = [
 const ksignApps = [
     {
         name: 'KSign V3 China',
-        url: 'https://loadly.io/6dFQMxip',
+        url: 'https://api.khoindvn.io.vn/xNcXpV',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign V2 China',
-        url: 'https://loadly.io/bfRwXm8B',
+        url: 'https://api.khoindvn.io.vn/KA0WeK',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign V1 China',
-        url: 'https://loadly.io/rFb2pKw8',
+        url: 'https://api.khoindvn.io.vn/m5Dwmx',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign',
-        url: 'https://loadly.io/AOk7uhFE',
+        url: 'https://api.khoindvn.io.vn/7SiRer',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign GOBAL V7',
-        url: 'https://loadly.io/RhGmivnV',
+        url: 'https://api.khoindvn.io.vn/8EXekd',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V6',
-        url: 'https://loadly.io/2GoieWqg',
+        url: 'https://api.khoindvn.io.vn/Y3VVk8',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V5',
-        url: 'https://loadly.io/Vj8nRH5T',
+        url: 'https://api.khoindvn.io.vn/w6hTPq',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V4',
-        url: 'https://loadly.io/kKLxKTOQ',
+        url: 'https://api.khoindvn.io.vn/TQZiXL',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V3',
-        url: 'https://loadly.io/OcBGRnJK',
+        url: 'https://api.khoindvn.io.vn/Kmjct5',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V2',
-        url: 'https://loadly.io/q7NuJqzk',
+        url: 'https://api.khoindvn.io.vn/CmRFJa',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V1',
-        url: 'https://i.loadly.io/tjQMARBC',
+        url: 'https://api.khoindvn.io.vn/K87OFJ',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign',
-        url: 'https://loadly.io/B4yjz3p6',
+        url: 'https://api.khoindvn.io.vn/rnwQdk',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/07DJmaef',
+        url: 'https://api.khoindvn.io.vn/qYAknx',
         img: 'img/pf/ksign.png',
         descriptions: 'Tianjin University of Commerce'   
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/57jdwiXt',
-        img: 'img/pf/ksign.png',
-        descriptions: 'BMW Brilliance Automotive Ltd'   
-    },
-    {
-        name: 'KSign BMW V1',
-        url: 'https://loadly.io/dKaQsrKZ',
+        url: 'https://api.khoindvn.io.vn/GzmZDL',
         img: 'img/pf/ksign.png',
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/vQvSH91u',
+        url: 'https://api.khoindvn.io.vn/zkopYA',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V1',
-        url: 'https://loadly.io/YW8HSTgM',
+        url: 'https://api.khoindvn.io.vn/40sZ5b',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V2',
-        url: 'https://loadly.io/LiQXptmW',
+        url: 'https://api.khoindvn.io.vn/dXcPgf',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V3',
-        url: 'https://loadly.io/TADbykHo',
+        url: 'https://api.khoindvn.io.vn/H047ID',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V4',
-        url: 'https://loadly.io/UZO7qsci',
+        url: 'https://api.khoindvn.io.vn/mND37c',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
-        name: 'KSign',
-        url: 'https://loadly.io/pJE8Gd6X',
-        img: 'img/pf/ksign.png',
-        descriptions: 'VIETTEL GROUP'   
-    },
-    {
-        name: 'KSign VIETTEL GROUP V1',
-        url: 'https://loadly.io/YqfVTduO',
-        img: 'img/pf/ksign.png',
-        descriptions: 'VIETTEL GROUP'   
-    },
-    {
         name: 'KSign VIETTEL GROUP V2',
-        url: 'https://loadly.io/XYvyFUF5',
+        url: 'https://api.khoindvn.io.vn/ytLYaQ',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign VIETTEL GROUP V3',
-        url: 'https://loadly.io/yOvQTfs8',
+        url: 'https://api.khoindvn.io.vn/CHXO1D',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/6kFySVCG',
+        url: 'https://api.khoindvn.io.vn/l32V16',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V1',
-        url: 'https://loadly.io/zUyCT3H8',
+        url: 'https://api.khoindvn.io.vn/zNliiL',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiaba V2',
-        url: 'https://loadly.io/kSkjPMhv',
+        url: 'https://api.khoindvn.io.vn/MULkwN',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiaba V3',
-        url: 'https://loadly.io/NRkK7p17',
+        url: 'https://api.khoindvn.io.vn/Gzcsyp',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V4',
-        url: 'https://loadly.io/gb2XXQOu',
+        url: 'https://api.khoindvn.io.vn/xR9XZN',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V5',
-        url: 'https://loadly.io/Mp7femdt',
+        url: 'https://api.khoindvn.io.vn/ZTyxtg',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/ubn8wwZY',
+        url: 'https://api.khoindvn.io.vn/b6UBAt',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V1',
-        url: 'https://loadly.io/nWsaaiiL',
+        url: 'https://api.khoindvn.io.vn/0Swfzx',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V2',
-        url: 'https://loadly.io/6i1ZZSji',
+        url: 'https://api.khoindvn.io.vn/xvRMSn',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V3',
-        url: 'https://loadly.io/nhMdwJJX',
+        url: 'https://api.khoindvn.io.vn/L39A9u',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/dbEiV4Fr',
-        img: 'img/pf/ksign.png',
-        descriptions: 'GAC TOYOTA MOTOR CO'
-    },
-    {
-        name: 'KSign GAC V1',
-        url: 'https://loadly.io/9TnVohcF',
-        img: 'img/pf/ksign.png',
-        descriptions: 'GAC TOYOTA MOTOR CO'
-    },
-    {
-        name: 'KSign GAC V2',
-        url: 'https://loadly.io/ZHFbgrf3',
-        img: 'img/pf/ksign.png',
-        descriptions: 'GAC TOYOTA MOTOR CO'
-    },
-    {
-        name: 'KSign GAC V3',
-        url: 'https://loadly.io/qP7wRRqS',
-        img: 'img/pf/ksign.png',
-        descriptions: 'GAC TOYOTA MOTOR CO'
-    },
-    {
-        name: 'KSign',
-        url: 'https://loadly.io/WoTRbYH7',
+        url: 'https://api.khoindvn.io.vn/uzB2VI',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'
     },
     {
         name: 'KSign EEO V1',
-        url: 'https://loadly.io/vu7OjCg1',
+        url: 'https://api.khoindvn.io.vn/bafZ1w',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/SpCyGaYM',
+        url: 'https://api.khoindvn.io.vn/hfU23G',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group'
     },
     {
         name: 'KSign China Railway V1',
-        url: 'https://loadly.io/EArBL5WZ',
+        url: 'https://api.khoindvn.io.vn/5lKSqG',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group'
     },
     {
         name: 'KSign',
-        url: 'https://loadly.io/3psivxUU',
+        url: 'https://api.khoindvn.io.vn/uzuv8e',
         img: 'img/pf/ksign.png',
         descriptions: 'Beijing Esensoft Co'
     }
