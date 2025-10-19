@@ -46,200 +46,200 @@ const apps = [
 const ksignApps = [
     {
         name: 'KSign V3 China',
-        url: 'https://api.khoindvn.io.vn/xNcXpV',
+        url: 'https://api.khoindvn.io.vn/xBQ9Fm',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign V2 China',
-        url: 'https://api.khoindvn.io.vn/KA0WeK',
+        url: 'https://api.khoindvn.io.vn/5PdaWQ',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign V1 China',
-        url: 'https://api.khoindvn.io.vn/m5Dwmx',
+        url: 'https://api.khoindvn.io.vn/QC273L',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/7SiRer',
+        url: 'https://api.khoindvn.io.vn/IV5Li2',
         img: 'img/pf/ksign.png',
         descriptions: 'China Telecommunications Corporation'   
     },{
         name: 'KSign GOBAL V7',
-        url: 'https://api.khoindvn.io.vn/8EXekd',
+        url: 'https://api.khoindvn.io.vn/TJPFQy',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V6',
-        url: 'https://api.khoindvn.io.vn/Y3VVk8',
+        url: 'https://api.khoindvn.io.vn/Q54jvO',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V5',
-        url: 'https://api.khoindvn.io.vn/w6hTPq',
+        url: 'https://api.khoindvn.io.vn/syblHB',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V4',
-        url: 'https://api.khoindvn.io.vn/TQZiXL',
+        url: 'https://api.khoindvn.io.vn/nzvN40',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V3',
-        url: 'https://api.khoindvn.io.vn/Kmjct5',
+        url: 'https://api.khoindvn.io.vn/MrNRUB',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V2',
-        url: 'https://api.khoindvn.io.vn/CmRFJa',
+        url: 'https://api.khoindvn.io.vn/Q9iqc5',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign GOBAL V1',
-        url: 'https://api.khoindvn.io.vn/K87OFJ',
+        url: 'https://api.khoindvn.io.vn/hXpQPB',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },{
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/rnwQdk',
+        url: 'https://api.khoindvn.io.vn/nG8BnC',
         img: 'img/pf/ksign.png',
         descriptions: 'GLOBAL TAKEOFF, INC'   
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/qYAknx',
+        url: 'https://api.khoindvn.io.vn/lu4NBL',
         img: 'img/pf/ksign.png',
         descriptions: 'Tianjin University of Commerce'   
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/GzmZDL',
+        url: 'https://api.khoindvn.io.vn/qcLoLs',
         img: 'img/pf/ksign.png',
         descriptions: 'BMW Brilliance Automotive Ltd'   
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/zkopYA',
+        url: 'https://api.khoindvn.io.vn/TlVhNA',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V1',
-        url: 'https://api.khoindvn.io.vn/40sZ5b',
+        url: 'https://api.khoindvn.io.vn/6FOa5r',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V2',
-        url: 'https://api.khoindvn.io.vn/dXcPgf',
+        url: 'https://api.khoindvn.io.vn/VQbmUk',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V3',
-        url: 'https://api.khoindvn.io.vn/H047ID',
+        url: 'https://api.khoindvn.io.vn/p351Hf',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VNJ V4',
-        url: 'https://api.khoindvn.io.vn/mND37c',
+        url: 'https://api.khoindvn.io.vn/ds5PGC',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE'   
     },
     {
         name: 'KSign VIETTEL GROUP V2',
-        url: 'https://api.khoindvn.io.vn/ytLYaQ',
+        url: 'https://api.khoindvn.io.vn/PYWwmW',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign VIETTEL GROUP V3',
-        url: 'https://api.khoindvn.io.vn/CHXO1D',
+        url: 'https://api.khoindvn.io.vn/S8DdoN',
         img: 'img/pf/ksign.png',
         descriptions: 'VIETTEL GROUP'   
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/l32V16',
+        url: 'https://api.khoindvn.io.vn/anm84U',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V1',
-        url: 'https://api.khoindvn.io.vn/zNliiL',
+        url: 'https://api.khoindvn.io.vn/XzsCi7',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiaba V2',
-        url: 'https://api.khoindvn.io.vn/MULkwN',
+        url: 'https://api.khoindvn.io.vn/N3XgAx',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiaba V3',
-        url: 'https://api.khoindvn.io.vn/Gzcsyp',
+        url: 'https://api.khoindvn.io.vn/bd1gnr',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V4',
-        url: 'https://api.khoindvn.io.vn/xR9XZN',
+        url: 'https://api.khoindvn.io.vn/ujwwo6',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign Chiba V5',
-        url: 'https://api.khoindvn.io.vn/ZTyxtg',
+        url: 'https://api.khoindvn.io.vn/VNh003',
         img: 'img/pf/ksign.png',
         descriptions: 'CHIBA INSTITUTE OF TECHNOLOGY'   
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/b6UBAt',
+        url: 'https://api.khoindvn.io.vn/tUjXxn',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V1',
-        url: 'https://api.khoindvn.io.vn/0Swfzx',
+        url: 'https://api.khoindvn.io.vn/SdYt5x',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V2',
-        url: 'https://api.khoindvn.io.vn/xvRMSn',
+        url: 'https://api.khoindvn.io.vn/ecofmF',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'   
     },
     {
         name: 'KSign TCL V3',
-        url: 'https://api.khoindvn.io.vn/L39A9u',
+        url: 'https://api.khoindvn.io.vn/tYiYjA',
         img: 'img/pf/ksign.png',
         descriptions: 'TCL household Appliance Marketing Co'
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/uzB2VI',
+        url: 'https://api.khoindvn.io.vn/kiEnst',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'
     },
     {
         name: 'KSign EEO V1',
-        url: 'https://api.khoindvn.io.vn/bafZ1w',
+        url: 'https://api.khoindvn.io.vn/xntFhV',
         img: 'img/pf/ksign.png',
         descriptions: 'EEO Education Ltd'
     },
     {
         name: 'KSign',
-        url: 'https://api.khoindvn.io.vn/hfU23G',
+        url: 'https://api.khoindvn.io.vn/aSPW2W',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group'
     },
     {
         name: 'KSign China Railway V1',
-        url: 'https://api.khoindvn.io.vn/5lKSqG',
+        url: 'https://api.khoindvn.io.vn/TsKid8',
         img: 'img/pf/ksign.png',
         descriptions: 'China Railway Eryuan Engineering Group'
     },
