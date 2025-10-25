@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://files.catbox.moe/8rmptx.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://loadly.io/image/view/app_icons/08f9552fa01dede9c9b7fdab7e8529c1/120</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://loadly.io/image/view/app_icons/08f9552fa01dede9c9b7fdab7e8529c1/120</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.tumadam.game.kgvn1</string>
+                <key>bundle-version</key>
+                <string>1.0.3</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>TrollST X</string>
+                <key>title</key>
+                <string>TrolST X</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
