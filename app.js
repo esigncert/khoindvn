@@ -11,7 +11,7 @@ const apps = [
         name: 'AovMod Mod Skin ✅',
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Mod Skin Update antiband cập nhật Ngày 19/10/2025'
+        descriptions: 'Mod Skin Update antiband cập nhật Ngày 31/10/2025'
     },
     {
         name: 'TrollStore X ✅',
