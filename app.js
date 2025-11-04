@@ -46,6 +46,21 @@ const apps = [
 const ksignApps = [
     
     {
+        name: 'KSign V2 ✅',
+        url: 'https://api.khoindvn.io.vn/7wr6sg',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
+    },{
+        name: 'KSign V1 ✅',
+        url: 'https://api.khoindvn.io.vn/4x22Dj',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
+    },{
+        name: 'KSign ✅',
+        url: 'https://api.khoindvn.io.vn/D6q5cE',
+        img: 'img/pf/ksign.png',
+        descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
+    },{
         name: 'KSign V2',
         url: 'https://api.khoindvn.io.vn/Qih0uw',
         img: 'img/pf/ksign.png',
