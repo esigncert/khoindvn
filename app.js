@@ -288,7 +288,12 @@ const ksignApps = [
 ];
 
 const esignApps = [
-   {
+    {
+        name: 'ESign ✅',
+        url: 'https://api.khoindvn.io.vn/jA06Dp',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'China National Heavy Duty Truck Group Co., Ltd.'   
+    },{
         name: 'ESign',
         url: 'https://api.khoindvn.io.vn/SUvkkC',
         img: 'img/pf/profile-pic.png',
