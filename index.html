@@ -69,11 +69,6 @@
     <!-- End SEO Meta -->
 
     <style>
-      .ad-consent-btn{
-        position:fixed; right:16px; bottom:16px; z-index:9999;
-        padding:10px 14px; border:0; border-radius:8px; font-weight:600;
-        background:#111; color:#fff; box-shadow:0 4px 12px rgba(0,0,0,.15);
-      }
       .ad-note{font-size:.9rem; opacity:.8; text-align:center; margin-top:1rem;}
     </style>
 </head>
@@ -180,7 +175,7 @@
         <div class="wave-container" id="wave1">
             <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path class="svg1"
-                    d="M0,288L48,272C96,256,192,224,288,213.3C384,203,480,213,576,213.3C672,213,768,203,864,192C960,181,1056,171,1152,165.3C1248,160,1344,160,1392,160L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+                    d="M0,288L48,272C96,256,192,224,288,213.3C384,203,480,213,576,213.3C672,213,768,203,864,192C960,181,1056,171,1152,165.3C1248,160,1344,160,1392,160L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320,480,320,384,320,288,320,192,320,96,320,48,320L0,320Z"
                     fill="#fff" fill-opacity="1"></path>
             </svg>
         </div>
@@ -219,10 +214,10 @@
             <p>vuvankhoi <strong> khoindvn@mail.com</strong>.</p>
         </section>
 
-        <div class="ad-note">Quảng cáo sẽ được tải phù hợp để tránh Safari bị văng.</div>
+        <div class="ad-note">Quảng cáo sẽ tự động tải khi bạn cuộn xuống gần khu vực bên dưới.</div>
         <!-- Ad placeholders keep the original URLs -->
-        <div id="ad-slot-popunder" data-src="//offeringchewjean.com/db/91/b0/db91b0d23de3109725cba50194fe2cc0.js"></div>
-        <div id="ad-slot-social" data-src="//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js"></div>
+        <div id="ad-slot-popunder" data-src="//offeringchewjean.com/db/91/b0/db91b0d23de3109725cba50194fe2cc0.js" style="height:1px;"></div>
+        <div id="ad-slot-social" data-src="//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js" style="height:1px;"></div>
     </main>
 
     <script src="main.js" defer></script>
@@ -234,12 +229,9 @@
     </a>
     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js" defer></script>
 
-    <!-- Safe Ads Loader: keeps your two ad scripts, but loads them safely -->
+    <!-- Lazy-scroll Ads Loader for ALL devices -->
     <script>
     (function(){
-      var isIOS = /iP(hone|od|ad)/.test(navigator.platform) || 
-                  (/Mac/.test(navigator.userAgent) && 'ontouchend' in document);
-
       function loadAd(el){
         if(!el || el.dataset.loaded) return;
         var s = document.createElement('script');
@@ -254,39 +246,41 @@
         if('IntersectionObserver' in window){
           var io = new IntersectionObserver(function(entries){
             entries.forEach(function(e){
-              if(e.isIntersecting){ loadAd(el); io.disconnect(); }
+              if(e.isIntersecting){
+                loadAd(el);
+                io.disconnect();
+              }
             });
           }, {rootMargin: '200px'});
           io.observe(el);
         } else {
-          // Fallback
-          setTimeout(function(){ loadAd(el); }, 3000);
+          // Fallback for very old browsers
+          var onScroll = function(){
+            var rect = el.getBoundingClientRect();
+            if(rect.top < window.innerHeight + 200){
+              loadAd(el);
+              window.removeEventListener('scroll', onScroll);
+            }
+          };
+          window.addEventListener('scroll', onScroll);
+          setTimeout(onScroll, 1500);
         }
       }
 
       var pop = document.getElementById('ad-slot-popunder');
       var social = document.getElementById('ad-slot-social');
 
-      if(isIOS){
-        // Require a tap on iOS to avoid crash/pop restrictions
-        var btn = document.createElement('button');
-        btn.textContent = 'Hiển thị quảng cáo';
-        btn.className = 'ad-consent-btn';
-        btn.addEventListener('click', function(){
-          loadAd(pop); loadAd(social);
-          btn.remove();
-        }, { once: true });
-        document.body.appendChild(btn);
+      // Lazy-load on scroll for all devices
+      lazyLoad(pop);
+      lazyLoad(social);
+
+      // Idle hint: if user doesn't scroll, still try after a while
+      if('requestIdleCallback' in window){
+        requestIdleCallback(function(){
+          lazyLoad(pop); lazyLoad(social);
+        }, {timeout: 8000});
       } else {
-        // Non‑iOS: lazy near viewport + idle
-        lazyLoad(pop); lazyLoad(social);
-        if('requestIdleCallback' in window){
-          requestIdleCallback(function(){
-            lazyLoad(pop); lazyLoad(social);
-          }, {timeout: 5000});
-        } else {
-          setTimeout(function(){ lazyLoad(pop); lazyLoad(social); }, 5000);
-        }
+        setTimeout(function(){ lazyLoad(pop); lazyLoad(social); }, 8000);
       }
     })();
     </script>
