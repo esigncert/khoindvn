@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="ie=edge" http-equiv="X-UA-Compatible" />
     <title>Vũ Văn Khơi</title>
-<link href="styles.css" rel="stylesheet" />
+
+    <link href="styles.css" rel="stylesheet" />
     <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" rel="stylesheet" /> -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-tomorrow.min.css" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-cpp.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-java.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-cpp.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-java.min.js" defer></script>
+
     <link href="app.css" rel="stylesheet" />
     <link as="style"
         href="https://ipa.chungchi365.com/_nuxt/iconfont-78cf5cacb1b8b5a62052065f527281e56b15ceae3f20ebdfd5fe0cfaebbd737c.Bc_iiR8Q.svg"
         onload="this.rel='stylesheet'" rel="stylesheet" />
-    </link>
+
     <!-- SEO Meta & Hidden Keywords -->
     <meta name='dmca-site-verification' content='bVJESUtHbW93QWxxWFEwN3VsNDRFQT090' />
     <meta name="title" content="Khoindvn | Vuvankhoi | Vuvankhoidns | Vuvankhoi Esign | Vuvankhoi Ksign">
@@ -32,8 +32,8 @@
     <meta property="og:type" content="website">
 
     <!-- Favicon -->
-<link rel="icon" href="https://khoindvn.io.vn/img/pf/ksign.png" type="image/png">
-<link rel="apple-touch-icon" href="https://khoindvn.io.vn/img/pf/ksign.png">
+    <link rel="icon" href="https://khoindvn.io.vn/img/pf/ksign.png" type="image/png">
+    <link rel="apple-touch-icon" href="https://khoindvn.io.vn/img/pf/ksign.png">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -67,6 +67,15 @@
     }
     </script>
     <!-- End SEO Meta -->
+
+    <style>
+      .ad-consent-btn{
+        position:fixed; right:16px; bottom:16px; z-index:9999;
+        padding:10px 14px; border:0; border-radius:8px; font-weight:600;
+        background:#111; color:#fff; box-shadow:0 4px 12px rgba(0,0,0,.15);
+      }
+      .ad-note{font-size:.9rem; opacity:.8; text-align:center; margin-top:1rem;}
+    </style>
 </head>
 <body>
     <!-- Navbar -->
@@ -81,7 +90,7 @@
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li style="display: flex; width: 26px;">
-                    <svg class="color-mode" height="30" id="colorMode" viewbox="0 0 400 400" width="30">
+                    <svg class="color-mode" height="30" id="colorMode" viewBox="0 0 400 400" width="30" aria-hidden="true">
                         <circle cx="200" cy="200" fill="white" r="195" stroke="#000" stroke-width="10"></circle>
                         <path d="M 200 375 A 175 175 0 0 1 200 25"></path>
                         <path d="M 200 300 A 100 100 0 0 1 200 100" fill="#FFF"></path>
@@ -94,14 +103,15 @@
             </div>
         </nav>
     </header>
+
     <!-- Main Section -->
     <main>
         <!-- Profile Section -->
         <section class="about-section" id="about">
             <div class="padding profile">
-                <img alt="Profile Picture" class="profile-pic box-shadow" src="./img/pf/ksign.png" />
+                <img alt="Profile Picture" class="profile-pic box-shadow" src="./img/pf/ksign.png" decoding="async" loading="lazy" />
                 <h2 style="margin-bottom: 0;">Hi, this is</h2>
-                <h1 style="margin-top: 0;">Vũ Văn Khơi <img alt="" src="./img/icons/badge.png" style="height: 28px;" />
+                <h1 style="margin-top: 0;">Vũ Văn Khơi <img alt="" src="./img/icons/badge.png" style="height: 28px;" decoding="async" loading="lazy" />
                 </h1>
                 <div class="typing">
                     and I'm a <span id="typed-text"></span><span class="cursor">|</span>
@@ -114,51 +124,47 @@
                 <div class="social-buttons"></div>
             </div>
         </section>
+
         <!-- Projects Section -->
         <section class="projects-section" id="projects">
             <div class="prj-collum">
                 <h2> </h2>
                 <div class="project">
                     <h3>Website Bán Chứng Chỉ Tự Động Giá 168k</h3>
-                    <a href="https://cert.khoindvn.io.vn" target="_blank"><img alt=""
-                            src="./img/icons/redirect.png" /></a>
+                    <a href="https://cert.khoindvn.io.vn" target="_blank" rel="noopener noreferrer"><img alt="Go to cert" src="./img/icons/redirect.png" decoding="async" loading="lazy" /></a>
                 </div>
                 <div class="project">
                     <h3> Telegram Channel Notification</h3>
-                    <a href="https://t.me/+SpFewJb4liUwODM1" target="_blank"><img alt=""
-                            src="./img/icons/redirect.png" /></a>
+                    <a href="https://t.me/+SpFewJb4liUwODM1" target="_blank" rel="noopener noreferrer"><img alt="Telegram" src="./img/icons/redirect.png" decoding="async" loading="lazy" /></a>
                 </div>
                 <div class="project">
                     <h3> Box Chat Tele Hack Map Mod LQMB</h3>
-                    <a href="https://t.me/+2LmRdQqpngEyNjhl" target="_blank"><img alt=""
-                            src="./img/icons/redirect.png" /></a>
+                    <a href="https://t.me/+2LmRdQqpngEyNjhl" target="_blank" rel="noopener noreferrer"><img alt="Telegram Chat" src="./img/icons/redirect.png" decoding="async" loading="lazy" /></a>
                 </div>
                 <div class="project">
-                    <h3>Join Discord Server</h3><a href="https://discord.gg/cQjuP9TEp3" target="_blank"><img alt="Discord"
-                            src="./img/icons/redirect.png" /></a>
+                    <h3>Join Discord Server</h3>
+                    <a href="https://discord.gg/cQjuP9TEp3" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="./img/icons/redirect.png" decoding="async" loading="lazy" /></a>
                 </div>
             </div>
             <div class="prj-collum">
                 <h2> </h2>
                 <div class="project">
                     <h3>Install DNS Profile</h3>
-                    <a href="https://github.com/esigncert/khoindvn/releases/download/DNS/signed_khoindvn.mobileconfig" target="_blank"><img alt=""
-                            src="./img/icons/download.png" /></a>
+                    <a href="https://github.com/esigncert/khoindvn/releases/download/DNS/signed_khoindvn.mobileconfig" target="_blank" rel="noopener noreferrer"><img alt="Download DNS Profile" src="./img/icons/download.png" decoding="async" loading="lazy" /></a>
                 </div>
                 <div class="project">
                     <h3>Download Certificate</h3>
-                    <a href="https://github.com/esigncert/khoindvn/raw/refs/heads/main/document/DNS/Certs-Khoindvn.zip"
-                        target="_blank"><img alt="" src="./img/icons/download.png" /></a>
+                    <a href="https://github.com/esigncert/khoindvn/raw/refs/heads/main/document/DNS/Certs-Khoindvn.zip" target="_blank" rel="noopener noreferrer"><img alt="Download Certificate" src="./img/icons/download.png" decoding="async" loading="lazy" /></a>
                 </div>
                 <div class="project">
                     <h3>Tutorial</h3>
-                    <a href="https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/"><img alt=""
-                            src="./img/icons/info.png" /></a>
+                    <a href="https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/" target="_blank" rel="noopener noreferrer"><img alt="Tutorial" src="./img/icons/info.png" decoding="async" loading="lazy" /></a>
                 </div>
             </div>
             <div class="proj-collum">
             </div>
         </section>
+
         <!-- app section  -->
         <h2 id="app" style="text-align: center;">Signed App</h2>
         <section class="app-section">
@@ -172,12 +178,13 @@
         <br />
         <div class="esign-section"></div>
         <div class="wave-container" id="wave1">
-            <svg viewbox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+            <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path class="svg1"
                     d="M0,288L48,272C96,256,192,224,288,213.3C384,203,480,213,576,213.3C672,213,768,203,864,192C960,181,1056,171,1152,165.3C1248,160,1344,160,1392,160L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
                     fill="#fff" fill-opacity="1"></path>
             </svg>
         </div>
+
         <!-- Skills Section -->
         <section class="skills-section" id="skills">
             <h2>Programming Language Skills</h2>
@@ -206,23 +213,83 @@
                 </div>
             </div>
         </section>
+
         <section class="contact-section" id="contact">
             <h2>Contact Me</h2>
             <p>vuvankhoi <strong> khoindvn@mail.com</strong>.</p>
         </section>
-</section>
-</main>
 
-<script src="main.js"></script>
-<script src="app.js"></script>
+        <div class="ad-note">Quảng cáo sẽ được tải phù hợp để tránh Safari bị văng.</div>
+        <!-- Ad placeholders keep the original URLs -->
+        <div id="ad-slot-popunder" data-src="//offeringchewjean.com/db/91/b0/db91b0d23de3109725cba50194fe2cc0.js"></div>
+        <div id="ad-slot-social" data-src="//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js"></div>
+    </main>
 
-<!-- POPUNDER -->
-<script type='text/javascript' src='//offeringchewjean.com/db/91/b0/db91b0d23de3109725cba50194fe2cc0.js'></script>
+    <script src="main.js" defer></script>
+    <script src="app.js" defer></script>
 
-<!-- SOCIAL BAR -->
-<script type='text/javascript' src='//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js'></script>
+    <!-- DMCA -->
+    <a href="//www.dmca.com/Protection/Status.aspx?ID=8d6c1d20-15d9-4846-ab00-806948e47695" title="DMCA.com Protection Status" class="dmca-badge">
+        <img src="https://images.dmca.com/Badges/_dmca_premi_badge_5.png?ID=8d6c1d20-15d9-4846-ab00-806948e47695" alt="DMCA.com Protection Status" decoding="async" loading="lazy" />
+    </a>
+    <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js" defer></script>
 
-<a href="//www.dmca.com/Protection/Status.aspx?ID=8d6c1d20-15d9-4846-ab00-806948e47695" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_5.png?ID=8d6c1d20-15d9-4846-ab00-806948e47695"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+    <!-- Safe Ads Loader: keeps your two ad scripts, but loads them safely -->
+    <script>
+    (function(){
+      var isIOS = /iP(hone|od|ad)/.test(navigator.platform) || 
+                  (/Mac/.test(navigator.userAgent) && 'ontouchend' in document);
+
+      function loadAd(el){
+        if(!el || el.dataset.loaded) return;
+        var s = document.createElement('script');
+        s.src = el.getAttribute('data-src');
+        s.async = true;
+        el.dataset.loaded = '1';
+        document.body.appendChild(s);
+      }
+
+      function lazyLoad(el){
+        if(!el) return;
+        if('IntersectionObserver' in window){
+          var io = new IntersectionObserver(function(entries){
+            entries.forEach(function(e){
+              if(e.isIntersecting){ loadAd(el); io.disconnect(); }
+            });
+          }, {rootMargin: '200px'});
+          io.observe(el);
+        } else {
+          // Fallback
+          setTimeout(function(){ loadAd(el); }, 3000);
+        }
+      }
+
+      var pop = document.getElementById('ad-slot-popunder');
+      var social = document.getElementById('ad-slot-social');
+
+      if(isIOS){
+        // Require a tap on iOS to avoid crash/pop restrictions
+        var btn = document.createElement('button');
+        btn.textContent = 'Hiển thị quảng cáo';
+        btn.className = 'ad-consent-btn';
+        btn.addEventListener('click', function(){
+          loadAd(pop); loadAd(social);
+          btn.remove();
+        }, { once: true });
+        document.body.appendChild(btn);
+      } else {
+        // Non‑iOS: lazy near viewport + idle
+        lazyLoad(pop); lazyLoad(social);
+        if('requestIdleCallback' in window){
+          requestIdleCallback(function(){
+            lazyLoad(pop); lazyLoad(social);
+          }, {timeout: 5000});
+        } else {
+          setTimeout(function(){ lazyLoad(pop); lazyLoad(social); }, 5000);
+        }
+      }
+    })();
+    </script>
 
 </body>
 </html>
