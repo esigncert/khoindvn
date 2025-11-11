@@ -214,10 +214,7 @@
             <p>vuvankhoi <strong> khoindvn@mail.com</strong>.</p>
         </section>
 
-        <div class="ad-note">Quảng cáo sẽ tự động tải khi bạn cuộn xuống gần khu vực bên dưới.</div>
-        <!-- Ad placeholders keep the original URLs -->
-        <div id="ad-slot-popunder" data-src="//offeringchewjean.com/db/91/b0/db91b0d23de3109725cba50194fe2cc0.js" style="height:1px;"></div>
-        <div id="ad-slot-social" data-src="//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js" style="height:1px;"></div>
+        <div class="ad-note">Quảng cáo sẽ tự động tải sau <strong>3 giây</strong> kể từ khi mở trang.</div>
     </main>
 
     <script src="main.js" defer></script>
@@ -229,58 +226,26 @@
     </a>
     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js" defer></script>
 
-    <!-- Lazy-scroll Ads Loader for ALL devices -->
+    <!-- AUTO-LOAD ADS AFTER 3s ON ALL DEVICES -->
     <script>
     (function(){
-      function loadAd(el){
-        if(!el || el.dataset.loaded) return;
+      function inject(src){
         var s = document.createElement('script');
-        s.src = el.getAttribute('data-src');
+        s.src = src;
         s.async = true;
-        el.dataset.loaded = '1';
         document.body.appendChild(s);
       }
-
-      function lazyLoad(el){
-        if(!el) return;
-        if('IntersectionObserver' in window){
-          var io = new IntersectionObserver(function(entries){
-            entries.forEach(function(e){
-              if(e.isIntersecting){
-                loadAd(el);
-                io.disconnect();
-              }
-            });
-          }, {rootMargin: '200px'});
-          io.observe(el);
-        } else {
-          // Fallback for very old browsers
-          var onScroll = function(){
-            var rect = el.getBoundingClientRect();
-            if(rect.top < window.innerHeight + 200){
-              loadAd(el);
-              window.removeEventListener('scroll', onScroll);
-            }
-          };
-          window.addEventListener('scroll', onScroll);
-          setTimeout(onScroll, 1500);
-        }
+      // Wait 3 seconds after page load becomes interactive
+      function start(){
+        setTimeout(function(){
+          inject('//offeringchewjean.com/db/91/b0/db91b0d23de3109725cba50194fe2cc0.js');
+          inject('//offeringchewjean.com/47/a9/13/47a913b960040fe7926ec0833cfc6151.js');
+        }, 3000);
       }
-
-      var pop = document.getElementById('ad-slot-popunder');
-      var social = document.getElementById('ad-slot-social');
-
-      // Lazy-load on scroll for all devices
-      lazyLoad(pop);
-      lazyLoad(social);
-
-      // Idle hint: if user doesn't scroll, still try after a while
-      if('requestIdleCallback' in window){
-        requestIdleCallback(function(){
-          lazyLoad(pop); lazyLoad(social);
-        }, {timeout: 8000});
+      if(document.readyState === 'complete' || document.readyState === 'interactive'){
+        start();
       } else {
-        setTimeout(function(){ lazyLoad(pop); lazyLoad(social); }, 8000);
+        document.addEventListener('DOMContentLoaded', start, {once:true});
       }
     })();
     </script>
