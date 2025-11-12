@@ -12,6 +12,11 @@ const apps = [
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Mod Skin Update antiband cập nhật Ngày 11/11/2025'
+    },{
+        name: 'Tiệm Phở Của Anh 2 ✅',
+        url: 'https://sub.khoindvn.io.vn/krnl',
+        img: 'https://st.quantrimang.com/photos/image/2025/11/03/Game-Brother-Hai-Pho-Restaurant-200-size-200x200-znd.png',
+        descriptions: 'Link Tải Trực Tiếp cập nhật Ngày 12/11/2025'
     },
     {
         name: 'TrollStore X ✅',
