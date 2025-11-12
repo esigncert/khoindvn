@@ -14,7 +14,7 @@ const apps = [
         descriptions: 'Mod Skin Update antiband cập nhật Ngày 11/11/2025'
     },{
         name: 'Tiệm Phở Của Anh 2 ✅',
-        url: 'https://sub.khoindvn.io.vn/tpa2',
+        url: 'https://sub.khoindvn.io.vn/Tpa2',
         img: 'https://st.quantrimang.com/photos/image/2025/11/03/Game-Brother-Hai-Pho-Restaurant-200-size-200x200-znd.png',
         descriptions: 'Link Tải Trực Tiếp iOS Cập Nhật Ngày 12/11/2025'
     },
