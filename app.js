@@ -16,7 +16,7 @@ const apps = [
         name: 'Tiệm Phở Của Anh 2 ✅',
         url: 'https://sub.khoindvn.io.vn/Tpa2',
         img: 'https://st.quantrimang.com/photos/image/2025/11/03/Game-Brother-Hai-Pho-Restaurant-200-size-200x200-znd.png',
-        descriptions: 'Link Tải Trực Tiếp đã fix ko hiện cài đặt Cập Nhật Ngày 12/11/2025'
+        descriptions: 'Link Tải Trực Tiếp đã fix ko hiện cài đặt Cập Nhật Ngày 13/11/2025'
     },
     {
         name: 'TrollStore X ✅',
