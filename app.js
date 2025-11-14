@@ -5,13 +5,13 @@ const apps = [
         name: 'AovCheat Map Sáng ✅ ',
         url: 'https://sub.khoindvn.io.vn/aovcheat.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Map Sáng Đánh Kín Update antiband Cập Nhật Ngày 11/11/2025 '
+        descriptions: 'Map Sáng Đánh Kín antiband Cập Nhật Ngày 14/11/2025 Sửa Lỗi Chứng Chỉ'
     },
     {
         name: 'AovMod Mod Skin ✅',
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Mod Skin Update antiband cập nhật Ngày 11/11/2025'
+        descriptions: 'Mod Skin Update antiband Cập nhật Ngày 14/11/2025 Sửa Lỗi Chứng Chỉ'
     },{
         name: 'Tiệm Phở Của Anh 2 ✅',
         url: 'https://sub.khoindvn.io.vn/Tpa2',
