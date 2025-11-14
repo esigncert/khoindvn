@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://files.catbox.moe/gqavoh.ipa</string>
+                    <string>https://files.catbox.moe/fdpygc.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.game.deltavn</string>
+                <string>com.game.trollstx</string>
                 <key>bundle-version</key>
                 <string>1.0.3</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>TrollST X</string>
                 <key>title</key>
-                <string>TrolST X</string>
+                <string>TrollST X</string>
             </dict>
         </dict>
     </array>
