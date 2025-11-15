@@ -61,6 +61,17 @@ const ksignApps = [
         img: 'img/pf/ksign.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
     },{
+        name: 'KSign V1',
+        url: 'https://api.khoindvn.io.vn/1IBMon',
+        img: 'img/pf/ksign.png',
+        descriptions: 'SIE Consulting Co.,Ltd.'   
+    },{
+        name: 'KSign',
+        url: 'https://api.khoindvn.io.vn/vOqZNm',
+        img: 'img/pf/ksign.png',
+        descriptions: 'SIE Consulting Co.,Ltd.'   
+    },
+    {
         name: 'KSign',
         url: 'https://api.khoindvn.io.vn/uFdLFw',
         img: 'img/pf/ksign.png',
