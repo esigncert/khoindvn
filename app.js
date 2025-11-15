@@ -51,12 +51,12 @@ const apps = [
 const ksignApps = [
     
     {
-        name: 'KSign V2 ✅',
+        name: 'KSign V2',
         url: 'https://api.khoindvn.io.vn/7wr6sg',
         img: 'img/pf/ksign.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
     },{
-        name: 'KSign ✅',
+        name: 'KSign',
         url: 'https://api.khoindvn.io.vn/D6q5cE',
         img: 'img/pf/ksign.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd'   
