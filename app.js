@@ -49,8 +49,17 @@ const apps = [
 ];
 
 const ksignApps = [
-    
     {
+        name: 'KSign V1 ✅',
+        url: 'https://api.khoindvn.io.vn/WAF9IA',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Etisalat - Emirates Telecommunications Corporation'   
+    },{
+        name: 'KSign ✅',
+        url: 'https://api.khoindvn.io.vn/5PwyVy',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Etisalat - Emirates Telecommunications Corporation'   
+    },{
         name: 'KSign V2',
         url: 'https://api.khoindvn.io.vn/7wr6sg',
         img: 'img/pf/ksign.png',
@@ -311,6 +320,11 @@ const ksignApps = [
 const esignApps = [
     {
         name: 'ESign ✅',
+        url: 'https://api.khoindvn.eu.org/k1Ycos',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Etisalat - Emirates Telecommunications Corporation'   
+    },{
+        name: 'ESign',
         url: 'https://api.khoindvn.io.vn/jA06Dp',
         img: 'img/pf/profile-pic.png',
         descriptions: 'China National Heavy Duty Truck Group Co., Ltd.'   
