@@ -6,25 +6,27 @@ const apps = [
         url: 'https://sub.khoindvn.io.vn/aovcheat.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Map Sáng Đánh Kín antiband Cập Nhật Ngày 20/11/2025 Sửa Lỗi Chứng Chỉ'
-    },
-    {
+    },{
         name: 'AovMod Mod Skin ✅',
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Mod Skin Update antiband Cập nhật Ngày 20/11/2025 Sửa Lỗi Chứng Chỉ'
+    },,{
+        name: 'Câu Cá Vạn Cân ✅',
+        url: 'https://sub.khoindvn.io.vn/cava/',
+        img: 'https://files.catbox.moe/moulfx.png',
+        descriptions: 'Hack Speed Game Link Tải Trực Tiếp Cập Nhật Ngày 24/11/2025 '
     },{
         name: 'Tiệm Phở Của Anh 2 ✅',
         url: 'https://sub.khoindvn.io.vn/Tpa2',
         img: 'https://st.quantrimang.com/photos/image/2025/11/03/Game-Brother-Hai-Pho-Restaurant-200-size-200x200-znd.png',
         descriptions: 'Link Tải Trực Tiếp Cập Nhật Ngày 20/11/2025 Sửa Lỗi Chứng Chỉ'
-    },
-    {
+    },{
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 14/11/2025'
-    },
-    {
+    },{
         name: 'DeltaVN ✅',
         url: 'https://sub.khoindvn.io.vn/delta.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
