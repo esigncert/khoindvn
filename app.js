@@ -35,7 +35,7 @@ const apps = [
         name: 'Skibx VN ✅',
         url: 'https://sub.khoindvn.io.vn/krnl.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 25/11/2025'
+        descriptions: 'Mod Roblox No Key Cập Nhật Ngày 25/11/2025'
     },{
         name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalq.html',
@@ -45,7 +45,7 @@ const apps = [
         name: 'File iPA Roblox',
         url: 'https://sub.khoindvn.io.vn/iparbl.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Krnl VN Và Delta VN Cập Nhật Ngày 20/11/2025'
+        descriptions: 'Gồm file 2 iPA Skibx VN Và Delta VN Cập Nhật Ngày 25/11/2025'
     },
 ];
 
