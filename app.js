@@ -27,10 +27,15 @@ const apps = [
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
         descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 14/11/2025'
     },{
-        name: 'DeltaVN ✅',
+        name: 'Delta VN ✅',
         url: 'https://sub.khoindvn.io.vn/delta.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 20/11/2025'
+        descriptions: 'Mod Roblox Cập Nhật Ngày 25/11/2025'
+    },{
+        name: 'Skibx VN ✅',
+        url: 'https://sub.khoindvn.io.vn/krnl.html',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
+        descriptions: 'Mod Roblox Cập Nhật Ngày 25/11/2025'
     },{
         name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalq.html',
