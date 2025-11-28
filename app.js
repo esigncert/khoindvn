@@ -15,7 +15,7 @@ const apps = [
         name: 'Câu Cá Vạn Cân ✅',
         url: 'https://sub.khoindvn.io.vn/cava/',
         img: 'https://files.catbox.moe/moulfx.png',
-        descriptions: 'Hack Số Lượng Cá Link Tải Trực Tiếp Cập Nhật Ngày 24/11/2025 '
+        descriptions: 'Hack Số Lượng Cá Link Tải Trực Tiếp Cập Nhật Ngày 29/11/2025 '
     },{
         name: 'Tiệm Phở Của Anh 2 ✅',
         url: 'https://sub.khoindvn.io.vn/Tpa2',
