@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.krnlvn.new</string>
+                <string>com.game.krnlvn</string>
                 <key>bundle-version</key>
-                <string>2.698.937</string>
+                <string>2.700.937</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
