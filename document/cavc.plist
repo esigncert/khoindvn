@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.game.krnlvn</string>
+                <string>com.soimap.game.kgvn.mod</string>
                 <key>bundle-version</key>
-                <string>1.62.2</string>
+                <string>1.63.4</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
