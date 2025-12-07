@@ -25,12 +25,12 @@ const apps = [
         name: 'Delta VN ✅',
         url: 'https://sub.khoindvn.io.vn/delta.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 06/12/2025 Fix Văng App'
+        descriptions: 'Mod Roblox Cập Nhật Ngày 07/12/2025 đã Fix Không thể cài đặt'
     },{
         name: 'Skibx VN ✅',
         url: 'https://sub.khoindvn.io.vn/krnl.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox No Key Cập Nhật Ngày 06/12/2025 Fix Văng App'
+        descriptions: 'Mod Roblox No Key Cập Nhật Ngày 07/12/2025 đã Fix Không thể cài đặt'
     },{
         name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalq.html',
