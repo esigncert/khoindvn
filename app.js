@@ -285,7 +285,12 @@ const ksignApps = [
 
 const esignApps = [
     {
-        name: 'ESign ✅',
+        name: 'ESign New Cert ✅',
+        url: 'https://api.khoindvn.io.vn/kc3EGM',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Wasu Media & Network Co., Ltd'   
+    },{
+        name: 'ESign',
         url: 'https://api.khoindvn.eu.org/k1Ycos',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Etisalat - Emirates Telecommunications Corporation'   
