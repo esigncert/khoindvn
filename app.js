@@ -36,6 +36,11 @@ const apps = [
 
 const ksignApps = [
     {
+        name: 'KSign New Cert ✅',
+        url: 'https://api.khoindvn.io.vn/CGMj7s',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Luoyang Postal Administration'   
+    },{
         name: 'KSign V1',
         url: 'https://api.khoindvn.io.vn/WAF9IA',
         img: 'img/pf/ksign.png',
