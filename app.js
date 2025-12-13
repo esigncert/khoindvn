@@ -14,7 +14,7 @@ const apps = [
     },{
         name: 'Câu Cá Vạn Cân ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
-        img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PtTOsXVAHJrI6i8sn3eDWS0mqKCiX8TBzJCZnASZvA&s',
         descriptions: 'Tính Năng Hack Cá Vàng Dame Speed Cập Nhật 14/12/2025'
     },{
         name: 'TrollStore X ✅',
