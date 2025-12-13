@@ -5,27 +5,27 @@ const apps = [
         name: 'AovCheat Map Sáng ✅ ',
         url: 'https://sub.khoindvn.io.vn/aovcheat.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Map Sáng Đánh Kín antiband Cập Nhật Ngày 12/12/2025 Sửa'
+        descriptions: 'Map Sáng Đánh Kín antiband Cập Nhật Ngày 13/12/2025 Update Anti'
     },{
         name: 'AovMod Mod Skin ✅',
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Mod Skin Update antiband Cập nhật Ngày 12/12/2025'
+        descriptions: 'Mod Skin Update antiband Cập nhật Ngày 13/12/2025 Update Anti'
     },{
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 06/12/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 13/12/2025'
     },{
         name: 'Delta VN ✅',
         url: 'https://sub.khoindvn.io.vn/delta.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 12/12/2025 đã Fix Lỗi Không thể cài đặt'
+        descriptions: 'Mod Roblox Cập Nhật Ngày 13/12/2025 đã Fix Lỗi Không thể cài đặt'
     },{
         name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalq.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 06/12/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 13/12/2025'
     },{
         name: 'File iPA Roblox',
         url: 'https://sub.khoindvn.io.vn/iparbl.html',
