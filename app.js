@@ -12,6 +12,11 @@ const apps = [
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Mod Skin Update antiband Cập nhật Ngày 13/12/2025 Update Anti'
     },{
+        name: 'Câu Cá Vạn Cân ✅',
+        url: 'https://sub.khoindvn.io.vn/trollst.html',
+        img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
+        descriptions: 'Tính Năng Hack Cá Vàng Dame Speed Cập Nhật 14/12/2025'
+    },{
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
