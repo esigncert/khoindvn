@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://files.catbox.moe/zl0rkp.ipa</string>
+                    <string>https://files.catbox.moe/as7oui.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.garena.game.dfgbd</string>
+                <string>com.promax</string>
                 <key>bundle-version</key>
                 <string>1.0.3</string>
                 <key>kind</key>
