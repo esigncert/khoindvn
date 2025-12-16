@@ -12,6 +12,16 @@ const apps = [
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Mod Skin Update antiband Cập nhật Ngày 13/12/2025 Update Anti'
     },{
+        name: 'Crossfire: Legends ✅',
+        url: 'https://is.gd/oz5x5j',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
+        descriptions: 'Mod Hack Aim bot antiband Cập nhật Ngày 16/12/2025 Link Tai Trực Tiếp Không Vượt Link'
+    },{
+        name: 'Key Hack Crossfire: Legends ✅',
+        url: 'https://http://sub.khoindvn.io.vn/vlcf/',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
+        descriptions: 'Key Có Hạn Sử Dụng 12 Tiếng Có Vượt Link 2 Lần'
+    },{
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
