@@ -18,9 +18,9 @@ const apps = [
         descriptions: 'Mod Hack Aim bot antiband Cập nhật Ngày 16/12/2025 Link Tai Trực Tiếp Không Vượt Link'
     },{
         name: 'Key Hack Crossfire: Legends ✅',
-        url: 'https://sub.khoindvn.io.vn/vlcf/',
+        url: 'https://authtool.app/get-key?code=7842d3c4-92fa-48a5-8130-8d150ae3a32e',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Key Có Hạn Sử Dụng 12 Tiếng Có Vượt Link 2 Lần'
+        descriptions: 'Lấy Key để Vào Game Vượt Link 2 Lần'
     },{
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
