@@ -25,7 +25,7 @@ const apps = [
         name: 'Play Together VNG ✅',
         url: 'https://i.authtool.app/ios/69493d2ca957dec3776bd135',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/6f/b1756f48-31e2-dbf5-2979-1c1ae0112b3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Auto câu cá All chức Năng antiband Cập nhật Ngày 21/12/2025 update antiban '
+        descriptions: 'Auto câu cá All chức Năng antiband Cập nhật Ngày 23/12/2025 update antiban '
     },{
         name: 'Get Key Play Together VNG ✅',
         url: 'https://authtool.app/get-key?code=9892c4a7-1fbd-4ced-a262-3e61819c24ad',
@@ -53,12 +53,12 @@ const apps = [
         descriptions: 'Mod Roblox Cập Nhật Ngày 18/12/2025'
     },{
         name: 'File iPA LQMB',
-        url: 'https://sub.khoindvn.io.vn/ipalq.html',
+        url: 'https://sub.khoindvn.io.vn/ipalqmb.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 18/12/2025'
     },{
         name: 'File iPA Roblox',
-        url: 'https://sub.khoindvn.io.vn/iparbl.html',
+        url: 'https://sub.khoindvn.io.vn/iparoblox.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
         descriptions: 'Gồm file 2 iPA Skibx VN Và Delta VN Cập Nhật Ngày 18/12/2025'
     },
