@@ -29,7 +29,7 @@ const apps = [
     },{
         name: 'Get Key Play Together VNG ✅',
         url: 'https://authtool.app/get-key?code=9892c4a7-1fbd-4ced-a262-3e61819c24ad',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/6f/b1756f48-31e2-dbf5-2979-1c1ae0112b3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg',
         descriptions: 'Lấy Key để Vào Game Play Together VNG'
     },{
         name: 'TrollStore X ✅',
