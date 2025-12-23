@@ -17,10 +17,20 @@ const apps = [
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Mod Hack Aim bot antiband Cập nhật Ngày 21/12/2025 update antiban '
     },{
-        name: 'Key Hack Crossfire: Legends ✅',
+        name: 'Get Key Crossfire: Legends ✅',
         url: 'https://authtool.app/get-key?code=7842d3c4-92fa-48a5-8130-8d150ae3a32e',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Lấy Key để Vào Game Vượt Link 2 Lần'
+        descriptions: 'Lấy Key để Vào Game Crossfire: Legends' 
+    },{
+        name: 'Play Together VNG ✅',
+        url: 'https://i.authtool.app/ios/69493d2ca957dec3776bd135',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/6f/b1756f48-31e2-dbf5-2979-1c1ae0112b3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg',
+        descriptions: 'Auto câu cá All chức Năng antiband Cập nhật Ngày 21/12/2025 update antiban '
+    },{
+        name: 'Get Key Play Together VNG ✅',
+        url: 'https://authtool.app/get-key?code=9892c4a7-1fbd-4ced-a262-3e61819c24ad',
+        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
+        descriptions: 'Lấy Key để Vào Game Play Together VNG'
     },{
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
