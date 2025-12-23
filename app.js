@@ -25,7 +25,7 @@ const apps = [
         name: 'Play Together VNG ✅',
         url: 'https://i.authtool.app/ios/69493d2ca957dec3776bd135',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/6f/b1756f48-31e2-dbf5-2979-1c1ae0112b3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Auto câu cá All chức Năng antiband Cập nhật Ngày 23/12/2025 update antiban '
+        descriptions: 'Auto câu cá All chức Năng antiband Cập nhật Ngày 23/12/2025 '
     },{
         name: 'Get Key Play Together VNG ✅',
         url: 'https://authtool.app/get-key?code=9892c4a7-1fbd-4ced-a262-3e61819c24ad',
