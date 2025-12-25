@@ -45,22 +45,22 @@ const apps = [
         name: 'Delta VN ✅',
         url: 'https://sub.khoindvn.io.vn/delta.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 18/12/2025'
+        descriptions: 'Mod Roblox 702 Cập Nhật Ngày 25/12/2025'
     },{
         name: 'SkibX VN ✅',
         url: 'https://sub.khoindvn.io.vn/krnl.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Mod Roblox Cập Nhật Ngày 18/12/2025'
+        descriptions: 'Mod Roblox Cập Nhật Ngày 25/12/2025'
     },{
         name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalqmb.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Map Và Mod Skin Cập Nhật Ngày 18/12/2025'
+        descriptions: 'Gồm file 2 iPA Map Và Mod Skin'
     },{
         name: 'File iPA Roblox',
         url: 'https://sub.khoindvn.io.vn/iparoblox.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
-        descriptions: 'Gồm file 2 iPA Skibx VN Và Delta VN Cập Nhật Ngày 18/12/2025'
+        descriptions: 'Gồm file 2 iPA Skibx VN Và Delta VN'
     },
 ];
 
