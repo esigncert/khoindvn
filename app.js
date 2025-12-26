@@ -23,12 +23,12 @@ const apps = [
         descriptions: 'Lấy Key để Vào Game Crossfire: Legends' 
     },{
         name: 'Play Together VNG ✅',
-        url: 'https://i.authtool.app/ios/69493d2ca957dec3776bd135',
+        url: 'https://chaptodocquyen.appinstall.cloud/PLAY/install.php',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/6f/b1756f48-31e2-dbf5-2979-1c1ae0112b3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg',
         descriptions: 'Auto câu cá All chức Năng antiband Cập nhật Ngày 26/12/2025 '
     },{
         name: 'Get Key Play Together VNG ✅',
-        url: 'https://chaptodocquyen.appinstall.cloud/PLAY/install.php',
+        url: 'https://authtool.app/get-key?code=9892c4a7-1fbd-4ced-a262-3e61819c24ad',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/6f/b1756f48-31e2-dbf5-2979-1c1ae0112b3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg',
         descriptions: 'Lấy Key để Vào Game Play Together VNG'
     },{
