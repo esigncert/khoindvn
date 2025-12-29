@@ -5,12 +5,12 @@ const apps = [
         name: 'AovCheat Map Sáng ✅ ',
         url: 'https://sub.khoindvn.io.vn/aovcheat.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Map Sáng Đánh Kín antiband Cập Nhật Ngày 25/12/2025 Update Fix Ban Vặt'
+        descriptions: 'Map Sáng Đánh Kín antiband Cập Nhật Ngày 29/12/2025 Update Fix Ban Vặt'
     },{
         name: 'AovMod Mod Skin ✅',
         url: 'https://sub.khoindvn.io.vn/aovmod.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Mod Skin Update antiband Cập nhật Ngày 25/12/2025 Update Fix Ban Vặt'
+        descriptions: 'Mod Skin Update antiband Cập nhật Ngày 29/12/2025 Update Fix Ban Vặt'
     },{
         name: 'Crossfire: Legends ✅',
         url: 'https://i.authtool.app/ios/694cfed5a957dec377724943',
