@@ -15,7 +15,7 @@ const apps = [
         name: 'Crossfire: Legends ✅',
         url: 'https://i.authtool.app/ios/694cfed5a957dec377724943',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/67/82/d5678282-ac1b-05d7-c61f-c10955a61479/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Mod Hack Aim bot antiband Cập nhật Ngày 26/12/2025 update antiban '
+        descriptions: 'Mod Hack Aim bot antiband Cập nhật Ngày 07/01/2025 update antiban '
     },{
         name: 'Get Key Crossfire: Legends ✅',
         url: 'https://authtool.app/get-key?code=7842d3c4-92fa-48a5-8130-8d150ae3a32e',
