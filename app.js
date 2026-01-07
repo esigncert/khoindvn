@@ -35,7 +35,7 @@ const apps = [
         name: 'TrollStore X ✅',
         url: 'https://sub.khoindvn.io.vn/trollst.html',
         img: 'https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png',
-        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 25/12/2025'
+        descriptions: 'Hỗ Trợ iOS 14.0-16.6.1 Cập Nhật Ngày 07/01/2025'
     },{
         name: 'Delta VN ✅',
         url: 'https://sub.khoindvn.io.vn/delta.html',
