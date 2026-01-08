@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.promax</string>
+				<string>api.vthangios.vn</string>
 				<key>bundle-version</key>
-				<string>1.64.0</string>
+				<string>1.65.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
