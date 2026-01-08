@@ -66,7 +66,17 @@ const apps = [
 
 const ksignApps = [
    {
-        name: 'KSign New Update ✅',
+        name: 'KSign V3',
+        url: 'https://api.khoindvn.io.vn/ahTMQO',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Commission on Elections'   
+    },{
+        name: 'KSign V2',
+        url: 'https://api.khoindvn.io.vn/iF65fX',
+        img: 'img/pf/ksign.png',
+        descriptions: 'Commission on Elections'   
+    },{
+        name: 'KSign',
         url: 'https://api.khoindvn.io.vn/t8jJVv',
         img: 'img/pf/ksign.png',
         descriptions: 'Commission on Elections'   
@@ -320,7 +330,7 @@ const ksignApps = [
 
 const esignApps = [
    {
-        name: 'ESign New Update ✅',
+        name: 'ESign',
         url: 'https://api.khoindvn.io.vn/YcrdHk',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Commission on Elections'   
