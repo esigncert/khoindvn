@@ -1,0 +1,262 @@
+0Ç<N	*ÜHÜ˜†Ç<?0Ç<;10	`ÜHe0Ç'ç	*ÜHÜ˜†Ç'~Ç'z<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://khoindvn.io.vn</string>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>certs.apple.com</string>
+					<string>crl.apple.com</string>
+					<string>crl3.digicert.com</string>
+					<string>crl4.digicert.com</string>
+					<string>ocsp.apple.com</string>
+					<string>ocsp.digicert.cn</string>
+					<string>ocsp.digicert.com</string>
+					<string>ocsp2.apple.com</string>
+					<string>valid.apple.com</string>
+					<string>vuvankhoi.com</string>
+				</array>
+			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+					<key>InterfaceTypeMatch</key>
+					<string>WiFi</string>
+				</dict>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+					<key>InterfaceTypeMatch</key>
+					<string>Cellular</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures device to use kh∆°indvn Encrypted DNS over HTTPS</string>
+			<key>PayloadDisplayName</key>
+			<string>Anti Revoke</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.0cd6791a-eb8f-4c81-b80c-f718e5f04c51</string>
+			<key>PayloadOrganization</key>
+			<string>kh∆°indvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>590396fe-a5b1-4778-a579-5b5ef931fdc7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			iVBORw0KGgoAAAAEQ2dCSVAAIAYsuHdmAAAADUlIRFIAAAB4AAAA
+			eAgGAAAAOWQ20gAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABxpRE9U
+			AAAAAgAAAAAAAAA8AAAAKAAAADwAAAA8AAAJG2CUYCcAAAjnSURB
+			VOxcbW8cVxXev7L+wLolCusEVealohIUIrEWlfqBfii0QBGhSpVG
+			BYqC1KhCgiAhGqmWkqqsSxVBK4ECu7VKKkqIVOIyu469L+M03nUc
+			mhc72Ulsr2eDHW98Hj7cOzP3zs7szKydrO29Vzq6d14ez+599tw5
+			5zwzjhERiAgA7N5q4n7xvDDHvY6593UL63Vsp2Jjfn+gnQVN9Eaw
+			QV9qM7DtJquTudjK2I4IbjdxUQiOcux+Yneyxbp58c32/k4I3gjx
+			2wG7ZQj2WnKiLNdRCVce3EO2k71YEaw8WJkiWJkiWJkiWNn9IBgR
+			mrtUGfbcKLhOzldY/xaLAmz3x4Iu5Hfcq8Yd9pyNYHulxfyEhKgk
+			+gkRnWL9VoAw1wnCthNP2hVRtiM21kkJsVOSgr5EGGwYwoOwYSYr
+			TGVsO2A7JjhsyTCsFOn1odupJxvBBk1WlDr2VsfGNrtM1o4IpSZt
+			wzQpjAdvdYI3IlRsdWwMqu3sKFpNgSJYNUWwatui0KFMRdHKFMHK
+			FMHb1FbWCWN1wu+uEp69SHi+QvjnQo/KhTuhNYlQagBvzAHfuwgk
+			80B/rtXS81tXPgwtFwYJDWFku9VLf8fyh4ew9P4PI1n9Hy9itZqV
+			rlFYmMbPC6/jB/95NZL9OPcrvD37Hu6ur3l8RmB2BfjTTeCFKjA4
+			AfRrHqS69n0uDyw0t3CaFEYhCiKxnX5MRGjkj+HWyIBgSWecHoAh
+			HXNM3N/4+CiICKfnxvCZ955AXyaFeCaFvkwKfdkhexzPpNCXFcdD
+			9tg655mPX0Fz/R4A4EIDODwLPFYA+nOEfg1I5AgJjY81IKGx7V15
+			wr4ioT9HSHCCExrw/m1EKt22m6vNxIZWkzqV7YgI9+pXcGtkbwvB
+			hkV0OukQmR6Awfcxgp3xrZE9uHt7GoMffBd9mSFGYnaIj4cQt4jM
+			OqT2Zfl5mSG+3/oxDCFz7SzOLQG784ykfk5iQiNONOu/XiS8NEN4
+			e56g1QkFk7B3nGwPTmjAkcudvVvUiQgSBRsL8+ZaWLnQb3t19jSM
+			dJKRNcL65TM/gzl2NNBuv/O4jTVGBjA9eYIRZXlpNoUD+d/gSOlE
+			oA1+8IyNjWdSeKV0AvuKxD0UnFjg0Ung+Qrh+HXCv5cI5QahbHLj
+			46cvWD8Ght1XIljT1ckLZFHJDouNbVSZCePtqzOjjKR0EkZ6AEY6
+			iZXqKNZqeqAt/u0pTvAAjPQA9PwxaSmOZ1I4deUMiotVFBcqjnls
+			p84etDHxTAr7x4edeyr34LfmCWUT0E3YpOqSsf1HPyUJ+1COMH83
+			eGmNKtpvFLupr4/6XWR1ZpQtw9ayywluchKbgonkNjnBFtYYcQiO
+			uwkWyfS0VoIPTQxjV16+x/76U0ZkOcBGb8men9AIGWPrvXb6QGrR
+			jGA5eFqpjqJpTHlbzRkzgh2cnj/G76uOnbpyBqXFaqClzh6UcIcL
+			w3hqSo6In74A6A3HykIvjksm8Mh5GXt4tkfFhtWZ0ZbIORLBI/eB
+			4Awj+LWrMkl7xoGCCbZMN9hSbffCuGwCz34iY79WBLZaqeABE+zy
+			4NoUX4qnsFbjxPKxeA++LwRzDz631Jrn/tXw9mL3+LdXWrFXV3uV
+			YCHXNdKM4DVjCmuGznsv06Ul2mghOCUTvFBBadGyqjCu+BJ85x4r
+			VCQ0IMFTnl/+13tZdo9P33bSJAv7l1oPyoVWkOUs0Unbg5vcg5uS
+			Bzv7rCDLwvoFWSVX1Fxa5L2w7Q6yDheGQcRSHla4YP23p4KDrLJJ
+			KJmEL0zI2J9e6kGxQYqieW/dg9dqOuuNKTQNHU2DR9CGsETbKVbS
+			P00KjKL9CX79mlPgSGiE5Dhhcjkcyc9dlLFfmSSs9yLBhk2wkCZx
+			EtkyLZhFsCHmwUknD86mJGN5cEiCs60Ea3WZpIRG+HONFzUa3oWO
+			coOgNwjHrsq4/hxhdqWHCWZEdVLokD04vokevLrOvFYk6sjlcB78
+			4QJfogXsuzd7TC50R9GGmCbxlGhNSJPWhF6Moo3AKLri6oOjaKu5
+			U54ndXAvdYKqsiuK1hssXXp0UsYemtkGcmEUWbDdf8ELzINrYfPg
+			ZIg0qSJE0v4Ex7mJBB+/zhWkHCtB7s4D55fBl2h3BE0S0funZeyX
+			JoB1Cv+GZtD8bQQbc8tNUcltpya1VLIEs+7BMrl8u6bb216VrHhG
+			UJAyrjx4oeI9tmvRDBvPyARPmFwqFDzxnZtiLRpSLbpskk3w8LVW
+			bOWO97tZYcj0e6+rE2xsI4XtsA8I2FG0Kw+2UyIpiuZFD4ngpKvQ
+			kZLkQtGDnTSpytMktwenmAe7CL67DuwdJ1tR6s8RfjHrCqxM7s1W
+			kMUrW/9agH0ftrAnb3Q2r1FeEQqDfTByoRVkCXKhHGTxwoZUxWJj
+			KcgacaJoUS70yoN91SRBLrSCLKs9Ny0LCN8qexEsj6378GMFGXug
+			ouTCrsuFogcDwJtzXOTnj+TsyhPydW+5sGySVJs+UJGxgxOEppIL
+			uysXigQTEUqN1nz45A3/FEkXdOMT11vz4amGkgu7LhfKT1G2SoAv
+			X/KuResu+2gReMglPIzMK7mw63Khu+2vyCR9swT7CQ+3XGgTzLcf
+			L8rYH00rubDrcqG7vTUvk/RwDtDq3nKh216sytjPn2ergpILuygX
+			utuFO1wCtGRAjZHuJx2K9vs58EduHWzBVHJh1+VC6RFfIgxyCdDK
+			bV+a8QuyHCubhLElwsM5GfvGnJILuy4Xuu2FqhwRf6MYTngom4R9
+			JRn7/YtKLuy6XOi2kzfIri0nNOaV55a85UK94XiwbhJ+MiNj94wz
+			tUrJhV2UC91W+Z8rp9UIb875L9Pi9h/mW7H5ZSUXdl0uFNs9Ar48
+			KQsIB6v+wZUYfGl14LM5GTt8TcmFXZcL3d/j0Iz1QB0j6qsFf7nQ
+			2cdq06mSjP3OJ0ou7Lpc6P7M796EHQ1b3vjRordcqJvA+DLhjzdY
+			5euLEzJ2dx5YWVdyYVflQvdnnl0hQQJk/fHrjlxYNAmnasCrl9nT
+			H7vzslzoxo7VuyMX/h8AAP//EgLHygAACLhJREFU7Vz7b1PXHedf
+			MfshAYRwaLVWHRpqtwmpjaEd7EXVrWtVtErTNHWlW6tu60pV0zKp
+			bGsytdTOGD8MmjBxnQABmmiUlhI7Sxw/CHlAHlVD8PUjIaZO7OR8
+			9sO5j3Ovr+/DTmzinSN9dL/3nPvxzb0fn3O+53wibyCEQA+56GO2
+			3Sgudb443gXR54bodyPpp8fcaAD5RNQSmTM/Uriivwmx0FG4As3Y
+			KDRjY4Di9HQPwukRSzzxn18pXJfQjNfC75s+785BgoY+FT8dJnh3
+			muCZ6wTb++V6SNDHWrz3pfP3bAa73A2lyFYfbiaovm5xvAtJn1uL
+			f3wTyeMPW8O/XcOTBWbR2PV9bOraa4lvBHZTjonALA7eJGjsI2gI
+			MmJJsVzfGCwtKsv98XVzkZzCLrcsgZ3eWOnBPjeS/iYl1qOoreha
+			qQcLzXAJHkUoGrPnbLun5PWywKXQkSAlxbMHlbs1RLCw7Ow9VqKB
+			IjCqUBbHu6h4/iblyCLpY9qkWPQ1aThyrAzRAY8hXEIzXKXaAh6p
+			19P4tfD7pn/39CLQGFTRENSeO6lvCAKX51D1UlWBjeG2qNO2x0JH
+			S4pbBMFj8kWwFpgQ4DthY/FkbA4Cz1wH3poEvFPAgRFgW8j42nen
+			/08EFv3GvdPoC6CvdySwBawEBoBXbxmI1UePOweBziQQy2pxOQM8
+			FS3m7YvVs8D6YViaY1MndyF77QhyN04jd+M0steOIHVyF5LsEO3T
+			DtGqSNqhelPXXvwy9A6Ojf0bJybOwhtvw3d7X6xI4DMimESKDrUN
+			fYC7H7iUKhZXRmgeeCys5W4OAvOFKgtc7kTuBEoWrQy3NJ47fwD5
+			2wMoJOIa5GcHMN/9CyXpYrlqkqVio+DBty7+HN0zVzGUHsVQehSR
+			DD2G0yP43eBf1flZKM6izTCzRNAY1KKhj+C3NwliCyqiuji6QPDh
+			TDG3J73279syi14rgWWxRJ8b6XYP8rODyCdiKIhx5MU4CmIMBTGG
+			fCKG/J0w0h17NBxRXiYJ6lrWJTSjofMpnPvqM0VcIzz7xR/LEpgQ
+			gl1DxRlyR0IVshT+e5dgc1DLe3uqTgVmlzqiz417gx/Q3pqI0aMk
+			cj4RU3Av/JE6nPuadMskFS/0HUIkPYoII2hEhwszV+k6uAyB/zBR
+			LPAnaanXZnXC6s4f6Nfy9kTrWWB5J8vnxtL0FY2YRlj68jNmTUyh
+			9mA6B7uEZvxt5KRp75Xx8IWfaXq/XYG7ksUCtyeMBWXP+w168OYg
+			QTJfRYGtJml286Lc64yWSfmZEB2OxTgKOsh1+ZlQEY8mWc2aRMs3
+			fgaRzJglHus5oOGaJVnspsGdJWCTLiN+5WbpBCuWpT37g6+Ml0vd
+			Kdi6r9NixF01gc14RgLnxjqVOVcVN6Y55kYDxsskQbvGfSv2EYYy
+			YxjKjDIYwxAj7kDqBrae/YHKNVgH659V3RUCnohos+htIYLulF5U
+			9Tw4T/BoWN3kYLl/miS27mtHD6vzDdoHIaY3KffG8jJJEcrXhLu9
+			r+jEZQSWEq+7PQcpz6fy6E6WKrBL8OB7vS8inB6hYqZHDXvvh2On
+			6RalxHXZFFjGm5NsL6QZ8SMDQEcCiC1AyqKpuL1pYHeUzZ613Mcj
+			xPZ9rXqoFXeDHTPBzvBhdq2SRTPr4GTbg8gNdxhk0XHkE3Hkhj9G
+			su0BOm/73MVDtMCsgwUPDkWPKUujIUlkmmyN4cqdQTr/Su6TK1Ba
+			4FL7wN0pyUAIqvvLjUE6dO+NAa/fInhjguDZYWBrSF1ONTJzsMzd
+			FCS4s2Tvvk40cWQ2rLVdKPrdSB5/CNnQX5CfDUsZdBz52TCywaNI
+			Hn9I2txwW9qFstAvD7yHa2KUiiwJfHLyAnZceo4mVpL7ZNcuZJHO
+			U2GMDQVru1CPzmS924UMUid2ICM8jYywH6kTOzRtou5aI7vQxYi3
+			5ew+PPnpS/jJ56/i25eel0wGg+tt2IV67ImWbxfqrcbXb3G7sOZ2
+			of5dvD1Vvl2ox9PXuV1Yc7tQX3rSldmFbNtvxrldWHO7UF/mCsCW
+			oLl9aAdbgsDgArcL7wu7UF/2xlS7sBzsHAQupOrNLrzZXdIulNe5
+			IrNGTuosQjYeHmgtaRc6xe8jf3f8LEemVftPGX6ZTYxGJm7oA5r6
+			geduAMdmgGgWWCaoaqnKXvTy3AT95zmdXajErJWoJFxuQ7swJ8ax
+			/fz+IrvQpbcDA6WSLhWnpi46fpaJHMG2kIGFKB23BAl+GKf/RfnF
+			PEFupbrmQk3MBkIIsle9GusvWSKTNsyupePClTdACMGpqYsaZ2ij
+			Tjgj6K958tOXsLi8VNazfD5H8GhYFffxCMGhSYJLaYK5Qm0FrZnA
+			hKwgN9yOufMHkBH2O8LcuReQi/8LZGVZ+bze2RCe73sTuy//2hH2
+			XTmIPw//Ewv5exU9T4EQ3MoRJPL3l6A1FJijJgJXwy50alRUi+vU
+			eluP3KrYhfcr16n1th65VbELsbICkk4CqYQhiMPz1eASm1xiUl8R
+			N/d1/diFpPccSOthgAFpPQy0MDHb1nIYpMWrxnJby2GQVu8qcL0g
+			Eqy4tG4NuL6jwNf36sMuJO1tIC1aYUmrVzqq0IjPxDKXnnsr5iov
+			vcWE2+LViLMm3MTt+rALSXubKoz8sGzcQmOUal9lrsxj28zayVpx
+			GYHXtV1Ie7DXFJCgryM2UAnXzmevGTdxuz7sQnQc18xXFF5lHjVu
+			85Zuq5SrwA7Xu3ZccbY+zAaMxoGP24BTfg4Zn3QCK8t1IjAvNStc
+			4HoXmO/X1vleNH8JXGAOLjAHtwu5XcjtQm4Xrle78D7klmO9rUdu
+			dexCiz/MCdfMTXHCLcd6W4/c6tiFulh/tHNfqwdywq3Fj4LWilsd
+			u9AG1863crW4tfhR0Fpxq2MXlsmz+zmVcKv1o6C14vK9aG428MIF
+			5oULzAu3Czm42cDBBebgAnO7kNuF3C7kdiG3C7ldyO1CbheuNfd/
+			/UPSiQAAAABJRU5ErkJggg==
+			</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>kh∆°indvn</string>
+			<key>PayloadDisplayName</key>
+			<string>Bio Khoindvn</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+			<key>PayloadOrganization</key>
+			<string>khoindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://api.khoindvn.eu.org/fSfJEA</string>
+		</dict>
+		<dict>
+			<key>AllowEnterpriseAppInstallation</key>
+			<true/>
+			<key>AllowEnterpriseAppTrust</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Enterprise App Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.optimized.trial.restrictions</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>3D67D52C-9CDC-4927-B2BD-C45302754A98</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>kh∆°indvn</string>
+	<key>PayloadIdentifier</key>
+	<string>com.khoindvn.apple-dns.307b1b04-6727-46d7-a431-1f6f4acfbda6</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>cd0b011b-c3e7-45f3-8bac-5139a8da8bd5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+†Ç⁄0ÇÅ0Çi†9rD:˘"∑Q◊”l›15ï0	*ÜHÜ˜ 0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0190312000000Z281231235959Z0Åà10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç Äe6√€≥–¨WvÌÕ'”L≠PÉa‚™ M	-d	‹ŒâüÃ=©Ïˆœ¡‹Ò”±÷{7(+G⁄9∆º:¥_¶Ω}ù£cB∂vÚ©;+ë¯‚o–Ï ê	>‚Ët…¥ë‘bd€£Òàjê"<º˛á{ˆ‰é‘‰Q∆gFQÀÜT?º3˛~lúˇùΩQé5¶ßf»rg€!f±‘õx¿P:ËÃ‹ºûL˛Øñ5WZ∑ˇŒ˘=∑,∂ˆT›»Á:MÆLä∑\ö¥∑ = "4Æ~;hfDÁNFSõ3`˜îæS7êsCÛ2√SÔ€™˛tNi«kå`ìﬁƒ«ﬂ·2ÆÃì;QxïgãÓ=V˛–iÛ%&k3m˜nG˙sCÂ~•f±)|2ÑcUâƒ¡ìT0¨”}7ßÎ]:l5\€A◊⁄©IﬂÿÄä	ìbéµfœ%àÕÑ∏±?§9ŸûÎLï|Ûk©^ÉÃ∏g‚ËùÃ[Ç”L≥Ì[ˇﬁÂs¨#;- ø5Ut	IÿIXí6ÊQíÛ&}Mº…ÏC&–øA_@©DDÙôÁWáûPWT®>˝tc/±Pe	ÊXB.CL¥%GY˙ì‘&FJPÅ≤ﬁæx∑¸g·…WÑc÷Èb∫÷_U.Í\∆(%9∏+©ÚLó?RıÌÔ/Ç £ÅÚ0ÅÔ0U#0Ä†
+#>ñÒÏ‚Ø)ÔÇ•–0§¥0USyøZ™+JœTÄ·ÿõ¿ùÚ≤fÀ0UˇÜ0Uˇ0ˇ0U 
+00U  0CU<0:08†6†4Ü2http://crl.comodoca.com/AAACertificateServices.crl04+(0&0$+0Ühttp://ocsp.comodoca.com0	*ÜHÜ˜ Ç áQ‹t!=úä‡'∑3–.ÃÏÊÀ^ﬁ"oõuéûr˛‰÷˛™úñ-ÔJ~ÆÙçor<C;¿?Î∏ﬂ\™©∆ÆÚ¸ÿÓ£{CˆÜ6|‡ÕÙ˜?˛ﬁ∏¥äëñ˛˝Cd~˝Ã“°}}¯…B+øXã∫§¢fvàëNâŒ¢M…2≥∫ËºqÒ[Aò 
+"Â±˘Õí7Ì;Ò‰:∂˘E&uØª™Ô?{w;“ƒë= ”\9€?{EÕìÖñ/]ﬂYO?QΩ’E?ÌJéËat#µPs'DG]â*kÖ1ƒË©jLÄºjxœ∏évrôù˛◊ë°£_ï0Ç0Ç˚†}[Q&¥v∫€tºSß0	*ÜHÜ˜ 0Åà10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0181102000000Z301231235959Z0Åè10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÷s3÷◊< – “E∏÷>¢?«AÓ20…∞l˝ÙüÀò-?çMÇb.È∏Hy˚ÉN≠◊2%ì∑øπP?©L√@*È9ˇŸÅ 2A⁄Ä&π#zá „ˇ ö<ïDoáuê@¥2ì	#>“›áo]Qj
+i≈Oriœ”ìLm†£Ç~±öπÌ≈û≈7xüö4˚V.Xƒ	d[º7‹Òü(h®V∞í£\üªàò$´0ÖÆØ∞.ûzù¡¿B‚Í‡J“Ôê¥¡@oÖBJd˜§0†˛ø.£'ZéãX∏≠√ÑcÌoV˝ÉÀ`4ƒtæÊù€·‰Â _ £Çn0Çj0U#0ÄSyøZ™+JœTÄ·ÿõ¿ùÚ≤fÀ0Uçå^ƒT≠ä·wÈõ˘õ·∏ça·0UˇÜ0Uˇ0ˇ 0U%0++0U 00U  0gÅ0PUI0G0E†C†AÜ?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v+j0h0?+0Ü3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%+0Ühttp://ocsp.usertrust.com0	*ÜHÜ˜ Ç 2øaΩH√O«∫GM¯úx‹Äo¸√p¥Rö13öWR˚1ûk§ÔT™âç@h¯|“ ±ÒUÜ«Ó≥6ëÜˆ9QøFø†∫¥˜~Iƒ*6û‰h9zØîNVo≤{;ø
+ÜΩÕ≈w∏8±¢_~€ä‹FH∂h
+œ≤µ¥‚4‰g©8f	^“∏¸ù(:@'¬rN)˝!<|œ˚ñ,≈1D˝Ì’õ©ihw|Ó·ˇ§˘68S9¢Ñ4úÛæ¨’$7Î#®x–”ÁÔíGdb9"Ô∆˜æ"Ö∆fD$&é2ç»ìÆûÉ>/Ÿ˘ıFécæ¡Ê¥‹¶Õ!®Ü
+ïŸ.Ö&˝¸±∂WBmï—3ˆ9ÇA8ıèX‹Ä[§’}ïx˝ßõˇ˝≈®i´&Áß§á[©∑∏£ ó©EÖ›≥ãÂâ7é)¸ˆ8@B‰˚{Û∆hbﬂ„òÙÿOã±iŸ`ºd*Í1∑‰µ£:õ&„{˝é∂ô¡8óY6ˆ®t¢Ü∂^Î∆dÍœ†£˘nû∫-∂ÜòX-…¨%dÚ^u¥8¡ÆZFÉÍQ ∂Òô5k•j{∆ ∞Á¯æd≤≠»¬Ò¨„QÍ§ì‡y»·Å@…
+[·<¡`*„ó¿âB îœFòiªò–¬”rKGnÂìƒ2(cáC‰∞2>
+”Kø#õ)A+öì-Ò«9H<≠Z0Ç:0Ç"† äï∫Ÿ√˚≥ƒ_0ÅP„Ï0	*ÜHÜ˜ 0Åè10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0250526000000Z260526235959Z010Ukhoindvn.io.vn0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ¨¥b+JlÚΩ£vÛŒ9‡AÊc…ªª `ã˙Jok∞o	uƒäÄéŒ3îÂ∑∞Zl‚Q6´©R°`Wtè$â¡ä¬¸ƒìúMT⁄†û∏CK~Ãπ5œ«¯˜…ÃYπô¶PP‚ÂªÙÒzŒééeÇ)ä÷¨ïÇ]`Yçl‘´≥¨ÔL≤rUó[ª˘6`¢ånîh lÿˆ^∞à9w”	?‰§>¥tCò©b`ƒ∏g˝[?ÛœxO∑l◊SÉ`Êé¿ä9ÆﬂLÊ]®˚WíY…Œ+≠d–µ†´$ÍHJ Bú≤s0ô–«⁄ä˙ÛÀóòñN˙Ç˛É}oûê**a £Ç0Ç 0U#0Äçå^ƒT≠ä·wÈõ˘õ·∏ça·0U
+d∞¨π9ƒX‹T∏Àm±¢ñˇ0Uˇ†0Uˇ0 0U%0++0IU B0@04+≤10%0#+https://sectigo.com/CPS0gÅ0ÅÑ+x0v0O+0ÜChttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#+0Ühttp://ocsp.sectigo.com0-U&0$Çkhoindvn.io.vnÇwww.khoindvn.io.vn0Ç~
++÷yÇnÇjh v ñódøUXó≠˜Cáh7BwÈ:’ˆ§Û6nF§? ©∆  ó7Á   G0E KHöôÔ©ø(ò∫~ï¿:t::‘—Øsa'! ›Á'tï∑DÛ©i4MìcïûπVº#ŒﬂÈ˙Í≈≈µu v Ü‘«(™o˛∫ox*Më™Œ-r1ÆŒ]pA-%L«‘  ó7Á   G0E! º‹_‡—êÀX	ÇèGR€vá™NçËD>µ˜°∏Ö{ 9Y$7rÑ¢ÃÌx*#Rñ&‘u™ÅÜ¢èíù©(]°ï v WîºÛÆ©>3,ô≥˜êﬂõ¬=q2%›!©%¨a≈N!  ó7Ê∫   G0E 1…°¸"∑hb\‹ÕË-√7^º¥± ≤¶ƒ6≠Y! ü±±JS6ΩAÏwE@ø6edµNVÃn5†P\ƒOü¥UP0	*ÜHÜ˜ Ç èŸÈpﬂ≈@:rE∆Ω%2wÚœ¢ÙöpÂe∂±;L0Uzw·'˜Ïº´7Iaµà–Œπ˙ 
+IÉS–∂fË€Æë_áY*iú‚%∆†˙gjr√^áå≥˜>÷ˇÕkYÖú&?îﬂ5&Ï´Æ: ´oƒfü”≤ÇÁÚ˝V˜VPfl}‰*ÒC¬}íÌ0⁄â˚≤ì˝/0ôai%™&ˆÈ˛_Âéo¢ÿ#ôøk1†úË{
+¥ $_6p0lqlçHb«Ã©U•Uk{.†5ÁΩ…Ÿ&#ÿáM¿ ﬁ*óµJ‚ª9b‰O™Ï√@îŒﬂ˘≥‘≠>¯∂d¬∆∑-éè∞1Ç∂0Ç≤0Å•0Åè10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA äï∫Ÿ√˚≥ƒ_0ÅP„Ï0	`ÜHe†Å‰0	*ÜHÜ˜	1	*ÜHÜ˜0	*ÜHÜ˜	1260108135020Z0/	*ÜHÜ˜	1" ‰˝zê⁄≥`´â#Ô∆±	9dF´õå
+√d™úM(0y	*ÜHÜ˜	1l0j0	`ÜHe*0	`ÜHe0	`ÜHe0
+*ÜHÜ˜0*ÜHÜ˜ Ä0*ÜHÜ˜@0+0*ÜHÜ˜(0	*ÜHÜ˜ Ç  ≈æ≠Ìﬁ¥µÀ≤ﬂáu8€ŒÖ}KAO~T¿%YÌÎË∫9'^pJh¿¬áfo´ }˘.8õ.‘6/Ü€œRÒAª®Ìë´]Ìª⁄`¡„èÓ'/	8£Ññ÷EF0 n∏íˇ¢*wa|≤ã,)eÑ¸'#äﬂ9_H.”@YÂ,√{ÏﬁG%áKÃ4˜¥„iA–«I≈Kéí˘ãΩ#ÒêvÏÿÃ!ZEÉ<îùk£,àçˇ˝Ø–’“W_'áBÃÇ´q%Îï∆lÿ¸MépóÂﬁõ⁄	êÁ˜“"àŒÁÉöZOj◊0∫âñ\‘Æ{q1∞¡]`-Œsã–˜d8±A
