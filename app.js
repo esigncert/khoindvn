@@ -47,6 +47,11 @@ const apps = [
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cd/0c/0fcd0c28-8cea-2165-85f0-731e14618522/AppIcon_VNGGames_New-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg',
         descriptions: 'Mod Roblox Cập Nhật Ngày 07/01/2025'
     },{
+        name: 'Câu Cá Vạn Cân ✅',
+        url: 'https://sub.khoindvn.io.vn/cava/',
+        img: 'https://bandishare.mobi/wp-content/uploads/2025/12/anh-bia-cau-ca-van-can-mod-apk.jpg',
+        descriptions: 'Mod Cá Speed Cập Nhật Ngày 08/01/2026'
+    },{
         name: 'File iPA LQMB',
         url: 'https://sub.khoindvn.io.vn/ipalqmb.html',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f9/70/7ff970e7-3b59-b769-34b5-e18c10e48990/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
